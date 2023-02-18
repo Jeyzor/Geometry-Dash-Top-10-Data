@@ -1,0 +1,1095 @@
+Abyss of Darkness:
+square: 28.0%
+ship: 12.6%
+wave: 23.4%
+robot: 4.1%
+ufo: 10.1%
+ball: 16.0%
+spider: 10.4%
+dual: 8.4%
+small: 41.4%
+big: 61.0%
+changes: 126
+length: 125 sec
+changes/min: 60.5
+
+Acheron:
+square: 46.7%
+ship: 22.6%
+wave: 13.1%
+robot: 0%
+ufo: 9.2%
+ball: 8.4%
+spider: 0%
+dual: 0%
+small: 32.4%
+big: 67.6%
+changes: 51
+length: 67 sec
+changes/min: 45.7
+
+Aerial Gleam:
+square: 19.7%
+ship: 12.2%
+wave: 62.5%
+robot: 0%
+ufo: 0%
+ball: 5.6%
+spider: 0%
+dual: 0%
+small: 7.8%
+big: 92.2%
+changes: 26
+length: 63 sec
+changes/min: 24.8
+
+Arctic Lights:
+square: 21.3%
+ship: 15.8%
+wave: 55.9%
+robot: 0%
+ufo: 0%
+ball: 7.0%
+spider: 0%
+dual: 5.5%
+small: 18.2%
+big: 81.8%
+changes: 27
+length: 60 sec
+changes/min: 27.0
+
+arcturus:
+square: 14.7%
+ship: 56.9%
+wave: 28.4%
+robot: 0%
+ufo: 0%
+ball: 0.6%
+spider: 0%
+dual: 14.2%
+small: 78.0%
+big: 22.0%
+changes: 11
+length: 60 sec
+changes/min: 11.0
+
+Artificial Ascent:
+square: 36.4%
+ship: 33.0%
+wave: 10.6%
+robot: 7.1%
+ufo: 7.7%
+ball: 9.7%
+spider: 0%
+dual: 9.2%
+small: 43.0%
+big: 59.2%
+changes: 103
+length: 143 sec
+changes/min: 43.2
+
+Athanatos:
+square: 23.4%
+ship: 27.4%
+wave: 19.3%
+robot: 10.8%
+ufo: 9.9%
+ball: 9.2%
+spider: 0%
+dual: 5.3%
+small: 43.2%
+big: 58.8%
+changes: 43
+length: 72 sec
+changes/min: 35.8
+
+Audio Extraction:
+square: 22.5%
+ship: 28.7%
+wave: 26.6%
+robot: 5.4%
+ufo: 7.5%
+ball: 9.8%
+spider: 0%
+dual: 11.9%
+small: 38.2%
+big: 61.8%
+changes: 63
+length: 105 sec
+changes/min: 36.0
+
+Aurora:
+square: 18.3%
+ship: 23.2%
+wave: 29.3%
+robot: 3.0%
+ufo: 16.6%
+ball: 14.0%
+spider: 15.2%
+dual: 28.2%
+small: 30.6%
+big: 77.7%
+changes: 68
+length: 120 sec
+changes/min: 34
+
+Bausha Vortex:
+square: 32.6%
+ship: 4.7%
+wave: 59.8%
+robot: 0%
+ufo: 0%
+ball: 6.4%
+spider: 0%
+dual: 15.8%
+small: 30.6%
+big: 74.9%
+changes: 45
+length: 71 sec
+changes/min: 38.0
+
+Betrayal of Fate:
+square: 36.8%
+ship: 21.2%
+wave: 21.3%
+robot: 0%
+ufo: 6.5%
+ball: 14.2%
+spider: 0%
+dual: 2.7%
+small: 20.4%
+big: 79.6%
+changes: 27
+length: 115 sec
+changes/min: 14.1
+
+Black Blizzard:
+square: 58.0%
+ship: 18.4%
+wave: 11.5%
+robot: 5.7%
+ufo: 11.3%
+ball: 12.2%
+spider: 0%
+dual: 17.4%
+small: 44.6%
+big: 62.6%
+changes: 18
+length: 99 sec
+changes/min: 10.9
+
+Bloodbath:
+square: 15.4%
+ship: 34.7%
+wave: 5.3%
+robot: 0%
+ufo: 19.6%
+ball: 25.0%
+spider: 0%
+dual: 2.0%
+small: 40.4%
+big: 60.8%
+changes: 47
+length: 115 sec
+changes/min: 24.5
+
+Bloodlust:
+square: 17.7%
+ship: 37.2%
+wave: 8.7%
+robot: 1.9%
+ufo: 17.8%
+ball: 16.7%
+spider: 0%
+dual: 2.4%
+small: 44.3%
+big: 65.4%
+changes: 115
+length: 124 sec
+changes/min: 55.6
+
+Cadrega City:
+square: 39.1%
+ship: 26.1%
+wave: 12.9%
+robot: 2.2%
+ufo: 11.4%
+ball: 17.8%
+spider: 0%
+dual: 28.7%
+small: 49.0%
+big: 62.3%
+changes: 97
+length: 110 sec
+changes/min: 52.9
+
+Calculator Core:
+square: 24.1%
+ship: 24.7%
+wave: 24.1%
+robot: 7.9%
+ufo: 4.2%
+ball: 18.1%
+spider: 5.6%
+dual: 26.9%
+small: 47.1%
+big: 63.7%
+changes: 161
+length: 203 sec
+changes/min: 47.6
+
+Celestial Force:
+square: 38.4%
+ship: 14.5%
+wave: 31.1%
+robot: 9.8%
+ufo: 3.5%
+ball: 19.5%
+spider: 4.5%
+dual: 48.2%
+small: 56.3%
+big: 58.0%
+changes: 153
+length: 123 sec
+changes/min: 74.6
+
+Cognition:
+square: 52.7%
+ship: 22.8%
+wave: 8.7%
+robot: 0%
+ufo: 11.5%
+ball: 8.1%
+spider: 0.6%
+dual: 5.0%
+small: 9.5%
+big: 91.3%
+changes: 42
+length: 61 sec
+changes/min: 41.3
+
+Cold Sweat:
+square: 55.5%
+ship: 0%
+wave: 26.4%
+robot: 0%
+ufo: 18.1%
+ball: 0%
+spider: 0%
+dual: 0%
+small: 93.1%
+big: 6.9%
+changes: 11
+length: 112 sec
+changes/min: 5.9
+
+Conical Depression:
+square: 41.5%
+ship: 27.6%
+wave: 25.1%
+robot: 0%
+ufo: 1.3%
+ball: 5.8%
+spider: 0%
+dual: 3.0%
+small: 58.8%
+big: 41.2%
+changes: 17
+length: 84 sec
+changes/min: 12.1
+
+Crimson Planet:
+square: 24.3%
+ship: 24.6%
+wave: 21.2%
+robot: 3.1%
+ufo: 12.6%
+ball: 9.6%
+spider: 4.6%
+dual: 1.0%
+small: 60.5%
+big: 42.7%
+changes: 68
+length: 66 sec
+changes/min: 61.8
+
+Deimos:
+square: 35.8%
+ship: 18.6%
+wave: 19.6%
+robot: 10.7%
+ufo: 11.7%
+ball: 6.3%
+spider: 3.8%
+dual: 11.2%
+small: 46.5%
+big: 58.4%
+changes: 239
+length: 173 sec
+changes/min: 82.9
+
+Devil Vortex:
+square: 12.7%
+ship: 19.1%
+wave: 31.8%
+robot: 3.7%
+ufo: 2.2%
+ball: 30.5%
+spider: 0%
+dual: 10.1%
+small: 34.2%
+big: 65.8%
+changes: 29
+length: 60 sec
+changes/min: 29.0
+
+Digital Descent:
+square: 31.2%
+ship: 23.5%
+wave: 15.9%
+robot: 1.9%
+ufo: 10.4%
+ball: 10.1%
+spider: 8.1%
+dual: 4.6%
+small: 33.6%
+big: 71.8%
+changes: 94
+length: 137 sec
+changes/min: 41.2
+
+Erebus:
+square: 47.3%
+ship: 23.0%
+wave: 9.6%
+robot: 6.0%
+ufo: 4.1%
+ball: 10.0%
+spider: 0%
+dual: 7.4%
+small: 61.5%
+big: 38.5%
+changes: 42
+length: 69 sec
+changes/min: 36.5
+
+Firework:
+square: 66.6%
+ship: 16.2%
+wave: 4.9%
+robot: 2.3%
+ufo: 2.7%
+ball: 3.5%
+spider: 2.9%
+dual: 6.0%
+small: 20.3%
+big: 82.7%
+changes: 77
+length: 126 sec
+changes/min: 36.7
+
+Fragile:
+square: 70.8%
+ship: 16.9%
+wave: 3.5%
+robot: 0%
+ufo: 4.0%
+ball: 5.0%
+spider: 0.3%
+dual: 2.4%
+small: 58.1%
+big: 45.0%
+changes: 87
+length: 100 sec
+changes/min: 52.2
+
+Gamma:
+square: 33.5%
+ship: 22.8%
+wave: 13.0%
+robot: 2.9%
+ufo: 18.0%
+ball: 6.8%
+spider: 5.6%
+dual: 10.1%
+small: 46.9%
+big: 56.9%
+changes: 110
+length: 102 sec
+changes/min: 64.7
+
+Generic Wave:
+square: 25.1%
+ship: 9.2%
+wave: 54.6%
+robot: 2.8%
+ufo: 0%
+ball: 8.3%
+spider: 0%
+dual: 11.3%
+small: 35.9%
+big: 64.3%
+changes: 36
+length: 121 sec
+changes/min: 17.9
+
+Hard Machine:
+square: 54.0%
+ship: 29.9%
+wave: 0%
+robot: 0%
+ufo: 3.8%
+ball: 12.3%
+spider: 0%
+dual: 0%
+small: 23.0%
+big: 77.0%
+changes: 35
+length: 96 sec
+changes/min: 21.9
+
+Hatred:
+square: 39.0%
+ship: 20.1%
+wave: 10.9%
+robot: 5.8%
+ufo: 11.2%
+ball: 13.0%
+spider: 0%
+dual: 0%
+small: 46.9%
+big: 53.1%
+changes: 17
+length: 65 sec
+changes/min: 15.7
+
+Infernal Abyss:
+square: 19.0%
+ship: 29.2%
+wave: 11.6%
+robot: 10.2%
+ufo: 16.3%
+ball: 13.7%
+spider: 0%
+dual: 0%
+small: 57.3%
+big: 42.7%
+changes: 34
+length: 63 sec
+changes/min: 32.4
+
+Kenos:
+square: 33.4%
+ship: 15.2%
+wave: 30.8%
+robot: 6.2%
+ufo: 8.4%
+ball: 5.1%
+spider: 0.9%
+dual: 0.2%
+small: 41.3%
+big: 62.4%
+changes: 75
+length: 117 sec
+changes/min: 38.5
+
+kowareta:
+square: 68.4%
+ship: 19.1%
+wave: 4.8%
+robot: 0%
+ufo: 4.2%
+ball: 3.5%
+spider: 1.7%
+dual: 4.4%
+small: 47.5%
+big: 52.5%
+changes: 49
+length: 47 sec
+changes/min: 62.6
+
+Kyouki:
+square: 33.0%
+ship: 20.0%
+wave: 14.3%
+robot: 10.0%
+ufo: 12.2%
+ball: 8.4%
+spider: 6.7%
+dual: 11.0%
+small: 28.3%
+big: 74.3%
+changes: 191
+length: 96 sec
+changes/min: 119.4
+
+LIMBO:
+square: 52.6%
+ship: 9.6%
+wave: 18.2%
+robot: 0.7%
+ufo: 6.5%
+ball: 10.2%
+spider: 2.2%
+dual: 3.9%
+small: 40.1%
+big: 59.9%
+changes: 51
+length: 206 sec
+changes/min: 14.9
+
+Lucid Nightmares:
+square: 22.9%
+ship: 26.0%
+wave: 21.9%
+robot: 3.6%
+ufo: 12.5%
+ball: 8.9%
+spider: 6.1%
+dual: 12.3%
+small: 32.8%
+big: 68.7%
+changes: 89
+length: 92 sec
+changes/min: 58.0
+
+Mayhem:
+square: 43.3%
+ship: 9.0%
+wave: 4.1%
+robot: 12.2%
+ufo: 15.8%
+ball: 10.2%
+spider: 5.4%
+dual: 4.2%
+small: 12.2%
+big: 91.6%
+changes: 81
+length: 88 sec
+changes/min: 55.2
+
+Mystic:
+square: 25.6%
+ship: 18.7%
+wave: 12.5%
+robot: 9.0%
+ufo: 6.5%
+ball: 22.0%
+spider: 5.7%
+dual: 3.3%
+small: 43.0%
+big: 57.0%
+changes: 56
+length: 97 sec
+changes/min: 34.6
+
+Oblivion:
+square: 40.9%
+ship: 22.4%
+wave: 5.7%
+robot: 0%
+ufo: 17.2%
+ball: 16.6%
+spider: 0%
+dual: 2.8%
+small: 6.6%
+big: 93.4%
+changes: 52
+length: 67 sec
+changes/min: 46.6
+
+Phobos:
+square: 13.3%
+ship: 37.7%
+wave: 22.4%
+robot: 0.6%
+ufo: 14.5%
+ball: 13.2%
+spider: 0%
+dual: 4.5%
+small: 43.3%
+big: 56.7%
+changes: 53
+length: 132 sec
+changes/min: 24.1
+
+Plasma Pulse Finale:
+square: 53.3%
+ship: 10.8%
+wave: 6.0%
+robot: 13.1%
+ufo: 4.7%
+ball: 7.9%
+spider: 9.4%
+dual: 9.3%
+small: 39.2%
+big: 64.1%
+changes: 66
+length: 125 sec
+changes/min: 31.7
+
+poosquared:
+square: 58.9%
+ship: 16.2%
+wave: 15.3%
+robot: 3.0%
+ufo: 4.3%
+ball: 5.2%
+spider: 0%
+dual: 6.8%
+small: 22.5%
+big: 78.7%
+changes: 82
+length: 81 sec
+changes/min: 60.7
+
+Promethean:
+square: 27.8%
+ship: 35.8%
+wave: 8.8%
+robot: 3.7%
+ufo: 11.0%
+ball: 12.9%
+spider: 0%
+dual: 4.8%
+small: 18.0%
+big: 82.0%
+changes: 15
+length: 51 sec
+changes/min: 17.6
+
+Quantum Processing:
+square: 35.2%
+ship: 14.6%
+wave: 29.6%
+robot: 0%
+ufo: 6.4%
+ball: 14.2%
+spider: 0%
+dual: 18.1%
+small: 5.2%
+big: 94.8%
+changes: 26
+length: 100 sec
+changes/min: 15.6
+
+Ragnarok:
+square: 35.7%
+ship: 24.4%
+wave: 10.8%
+robot: 4.0%
+ufo: 11.3%
+ball: 9.4%
+spider: 4.4%
+dual: 0.7%
+small: 28.2%
+big: 74.5%
+changes: 161
+length: 190 sec
+changes/min: 50.8
+
+Renevant:
+square: 35.8%
+ship: 19.6%
+wave: 9.3%
+robot: 5.8%
+ufo: 19.4%
+ball: 11.9%
+spider: 0%
+dual: 5.8%
+small: 22.3%
+big: 79.3%
+changes: 99
+length: 97 sec
+changes/min: 61.2
+
+Sakupen Circles:
+square: 18.3%
+ship: 31.4%
+wave: 38.7%
+robot: 0%
+ufo: 0%
+ball: 11.6%
+spider: 0%
+dual: 17.6%
+small: 24.2%
+big: 75.8%
+changes: 20
+length: 50 sec
+changes/min: 24.0
+
+Sakupen Hell:
+square: 10.7%
+ship: 34.4%
+wave: 31.4%
+robot: 0%
+ufo: 17.7%
+ball: 12.0%
+spider: 0%
+dual: 6.8%
+small: 60.2%
+big: 40.9%
+changes: 16
+length: 50 sec
+changes/min: 19.2
+
+SARY NEVER CLEAR:
+square: 44.8%
+ship: 29.2%
+wave: 0%
+robot: 0%
+ufo: 5.1%
+ball: 20.9%
+spider: 0%
+dual: 0%
+small: 6.7%
+big: 93.3%
+changes: 19
+length: 78 sec
+changes/min: 14.6
+
+Sigma:
+square: 43.5%
+ship: 16.5%
+wave: 14.2%
+robot: 4.0%
+ufo: 11.6%
+ball: 7.1%
+spider: 5.3%
+dual: 7.9%
+small: 42.1%
+big: 59.4%
+changes: 164
+length: 157 sec
+changes/min: 62.7
+
+Silent clubstep:
+square: 63.1%
+ship: 19.9%
+wave: 0%
+robot: 0%
+ufo: 5.7%
+ball: 14.7%
+spider: 0%
+dual: 8.3%
+small: 41.9%
+big: 58.1%
+changes: 29
+length: 86 sec
+changes/min: 20.2
+
+Slaughterhouse:
+square: 33.1%
+ship: 23.9%
+wave: 35.1%
+robot: 0%
+ufo: 4.3%
+ball: 3.6%
+spider: 0%
+dual: 0%
+small: 40.6%
+big: 59.4%
+changes: 35
+length: 70 sec
+changes/min: 30.0
+
+Sonic Wave Infinity:
+square: 23.6%
+ship: 7.7%
+wave: 44.5%
+robot: 0%
+ufo: 0%
+ball: 24.2%
+spider: 0%
+dual: 7.0%
+small: 45.5%
+big: 54.5%
+changes: 35
+length: 147 sec
+changes/min: 14.3
+
+Sonic Wave:
+square: 28.1%
+ship: 9.4%
+wave: 54.1%
+robot: 0%
+ufo: 0%
+ball: 8.4%
+spider: 0%
+dual: 6.5%
+small: 35.6%
+big: 64.4%
+changes: 30
+length: 120 sec
+changes/min: 15.0
+
+Spacial Rend:
+square: 43.4%
+ship: 23.1%
+wave: 8.9%
+robot: 9.6%
+ufo: 9.1%
+ball: 7.5%
+spider: 3.7%
+dual: 9.0%
+small: 23.8%
+big: 78.3%
+changes: 80
+length: 125 sec
+changes/min: 38.4
+
+Stalemate Redux:
+square: 3.5%
+ship: 46.1%
+wave: 19.2%
+robot: 0%
+ufo: 20.3%
+ball: 10.9%
+spider: 0%
+dual: 17.9%
+small: 67.6%
+big: 42.4%
+changes: 17
+length: 82 sec
+changes/min: 12.4
+
+Step To Hell:
+square: 32.3%
+ship: 37.3%
+wave: 8.3%
+robot: 5.7%
+ufo: 8.4%
+ball: 8.0%
+spider: 0%
+dual: 1.0%
+small: 22.8%
+big: 77.2%
+changes: 93
+length: 120 sec
+changes/min: 46.5
+
+SubSonic:
+square: 27.3%
+ship: 13.9%
+wave: 17.3%
+robot: 10.6%
+ufo: 4.9%
+ball: 18.4%
+spider: 14.8%
+dual: 8.8%
+small: 35.1%
+big: 66.6%
+changes: 87
+length: 125 sec
+changes/min: 41.8
+
+Tartarus:
+square: 35.4%
+ship: 25.8%
+wave: 8.6%
+robot: 0%
+ufo: 11.5%
+ball: 18.7%
+spider: 0%
+dual: 6.5%
+small: 44.5%
+big: 58.5%
+changes: 56
+length: 87 sec
+changes/min: 38.6
+
+The Golden:
+square: 6.4%
+ship: 24.4%
+wave: 26.3%
+robot: 8.0%
+ufo: 19.1%
+ball: 13.3%
+spider: 2.5%
+dual: 3.3%
+small: 23.7%
+big: 76.3%
+changes: 41
+length: 84 sec
+changes/min: 29.3
+
+The Hallucination:
+square: 27.5%
+ship: 12.5%
+wave: 44.6%
+robot: 0%
+ufo: 3.7%
+ball: 11.7%
+spider: 0%
+dual: 4.3%
+small: 50.3%
+big: 50.8%
+changes: 212
+length: 124 sec
+changes/min: 102.6
+
+The Hell World:
+square: 63.8%
+ship: 17.5%
+wave: 0%
+robot: 0%
+ufo: 0%
+ball: 18.7%
+spider: 0%
+dual: 0%
+small: 2.3%
+big: 97.7%
+changes: 35
+length: 83 sec
+changes/min: 25.3
+
+The Rupture:
+square: 38.8%
+ship: 21.6%
+wave: 10.6%
+robot: 4.8%
+ufo: 9.4%
+ball: 12.9%
+spider: 6.1%
+dual: 9.9%
+small: 27.1%
+big: 78.7%
+changes: 56
+length: 84 sec
+changes/min: 40.0
+
+The Yandere:
+square: 41.6%
+ship: 17.4%
+wave: 8.2%
+robot: 3.9%
+ufo: 10.3%
+ball: 14.8%
+spider: 5.9%
+dual: 4.6%
+small: 34.0%
+big: 67.4%
+changes: 154
+length: 129 sec
+changes/min: 62.0
+
+Thinking Space:
+square: 30.9%
+ship: 34.8%
+wave: 20.8%
+robot: 4.4%
+ufo: 1.0%
+ball: 12.4%
+spider: 0%
+dual: 11.1%
+small: 49.9%
+big: 55.4%
+changes: 69
+length: 98 sec
+changes/min: 42.2
+
+Titan Complex:
+square: 31.8%
+ship: 26.5%
+wave: 11.4%
+robot: 5.7%
+ufo: 9.8%
+ball: 12.1%
+spider: 3.6%
+dual: 10.6%
+small: 36.2%
+big: 65.9%
+changes: 136
+length: 201 sec
+changes/min: 40.6
+
+Trueffet:
+square: 45.6%
+ship: 25.1%
+wave: 18.1%
+robot: 1.5%
+ufo: 9.6%
+ball: 1.8%
+spider: 0%
+dual: 4.4%
+small: 22.8%
+big: 78.0%
+changes: 93
+length: 74 sec
+changes/min: 75.4
+
+Verdant Landscape:
+square: 50.9%
+ship: 23.5%
+wave: 9.5%
+robot: 1.0%
+ufo: 8.7%
+ball: 5.9%
+spider: 0.5%
+dual: 18.2%
+small: 57.4%
+big: 43.2%
+changes: 125
+length: 128 sec
+changes/min: 58.6
+
+Visible Ray:
+square: 26.7%
+ship: 22.3%
+wave: 12.7%
+robot: 10.9%
+ufo: 12.5%
+ball: 10.1%
+spider: 10.3%
+dual: 11.8%
+small: 31.8%
+big: 70.0%
+changes: 127
+length: 157 sec
+changes/min: 48.5
+
+Yatagarasu:
+square: 20.8%
+ship: 30.5%
+wave: 12.2%
+robot: 2.3%
+ufo: 9.4%
+ball: 24.8%
+spider: 0%
+dual: 6.9%
+small: 40.2%
+big: 59.8%
+changes: 84
+length: 176 sec
+changes/min: 28.6
+
+ZAPHKIEL:
+square: 39.4%
+ship: 20.2%
+wave: 14.2%
+robot: 6.5%
+ufo: 11.7%
+ball: 3.8%
+spider: 6.9%
+dual: 6.6%
+small: 27.3%
+big: 75.2%
+changes: 66
+length: 75 sec
+changes/min: 52.8
+
+Zodiac:
+square: 45.6%
+ship: 17.2%
+wave: 9.0%
+robot: 7.0%
+ufo: 5.8%
+ball: 10.6%
+spider: 7.0%
+dual: 6.1%
+small: 27.2%
+big: 73.5%
+changes: 145
+length: 193 sec
+changes/min: 45.1
+
