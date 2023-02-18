@@ -1,5 +1,5 @@
 
-This is the data Jeyzor collected for his video "Game Mode Usage in thr Top 10 Demons in Geometry Dash (Graph Race)".
+This is the data Jeyzor collected for his video "Game Mode Usage in the Top 10 Demons in Geometry Dash (Graph Race)".
 
 CONTENTS:
 level calc.py is a python program that calculates the stats for a single level.
