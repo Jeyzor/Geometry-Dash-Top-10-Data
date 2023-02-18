@@ -1,0 +1,5581 @@
+Abyss of Darkness:
+big square 0
+small square 0.4
+ship 1.2
+spider 2.1
+ship 2.5
+big wave 2.8
+small ball 3.0
+ship 4.8
+wave 5.8
+big wave 7
+square 8.6
+ball 10.2
+wave 10.8
+dual wave 12
+small wave ball 12.1
+undual spider 13.4
+big ufo 14.7
+small robot 16.3
+ship 17.6
+big ship 18
+small wave 18.2
+big wave 20.2
+square 20.6
+small wave 21.3
+big square 21.6
+small square 21.9
+ship 23.6
+square 25.2
+ball 27
+big ball 28.3
+square 29.3
+small square 32
+big square 33
+robot 33.7
+ball 34.4
+ship 35.3
+square 35.8
+ship 36.7
+spider 37.2
+robot 38.5
+small wave 39
+square 39.4
+big square 40.2
+ufo 40.8
+square 41.2
+spider 42.1
+square 43
+small square 43.3
+ball 43.6
+ship 44.8
+ufo 45.6
+big ufo 45.7
+small ufo 45.8
+big ufo 46.1
+small spider 47.1
+big spider 47.5
+ship 48.5
+small ship 48.6
+dual spider 50.8
+big small wave spider 51.2
+ball wave 51.4
+undual big square 52.4
+ufo 53
+ball 54.2
+wave 55.1
+ship 55.5
+ufo 55.9
+wave 56.3
+square 56.5
+wave 56.8
+spider 58
+ship 58.9
+ufo 60.6
+wave 61.4
+small wave 62.6
+big wave 62.9
+ball 63.2
+ufo 64.1
+small spider 64.4
+big square 65.3
+ufo 65.9
+small ufo 66.7
+big ufo 67.4
+small ufo 67.8
+big ufo 68.6
+ship 69.5
+square 70
+wave 70.2
+ball 70.6
+ship 71.9
+small ship 72.8
+square 73.1
+big wave 75.4
+small wave 76.6
+big wave 77.7
+small wave 79
+big wave 79.6
+spider 80.2
+robot 81.2
+dual ball square 82.4
+small big ball square 83
+big ball 84.2
+undual square 85.2
+small ball 86.4
+big ball 86.8
+square 87.4
+robot 87.7
+small robot 87.9
+spider 88.1
+dual spider 88.9
+big spider 89.4
+undual small ufo 89.8
+big square 90.1
+wave 90.6
+small wave 91
+big wave 91.5
+square 91.8
+dual square 93.2
+wave ship 93.8
+small square 94.1
+big square 94.4
+undual square 94.9
+small wave 95.3
+big square 96.1
+small square 97
+wave 97.6
+big wave 97.9
+small 100
+
+Acheron:
+big square 0
+small square 14.8
+big square 16.1
+small ship 18.9
+big ship 20.7
+small ship 22.6
+square 23.8
+big wave 24.9
+small wave 25.6
+big square 27
+ship 29.2
+small square 30.4
+big ufo 33.3
+square 36.2
+wave 38.2
+square 41.1
+small ship 42.8
+big ship 45.6
+small ship 46.2
+big ship 48.2
+wave 49.4
+small wave 50.7
+big ufo 51.3
+square 54.7
+ship 57.5
+small square 59.4
+big square 61.6
+ship 62.4
+square 63.2
+small square 65.4
+ship 66.5
+big wave 68
+small square 70.1
+ship 71.8
+big ship 72.1
+ufo 75.1
+small ship 75.8
+square 76.8
+ball 77.8
+ufo 79.3
+big ball 81.5
+wave 82.7
+small wave 83.2
+big ship 84.6
+square 86
+wave 89.3
+square 90.1
+ball 91.5
+small ball 93.8
+big square 94.8
+wave 96.2
+small ball 97.6
+big 100
+
+Aerial Gleam:
+big ball 0
+ship 2.4
+square 5.4
+wave 7.6
+square 15.9
+wave 16.5
+small wave 24.5
+big wave 25.9
+small wave 34.1
+big square 34.8
+wave 35.5
+small wave 39.4
+big wave 40.7
+square 42.7
+wave 45.6
+small wave 55.6
+big wave 58.4
+square 60.6
+wave 63.8
+small wave 69
+big square 70.6
+wave 73.2
+square 80.1
+ship 86.5
+square 89.4
+ball 90.5
+ship 93.7
+small 100
+
+Arctic Lights:
+big square 0
+small square 5.1
+big square 8.2
+ball 13.7
+ship 20.7
+square 24.6
+wave 25
+small wave 26.6
+big wave 29.7
+dual small wave 36.4
+big wave 36.7
+undual wave 38.7
+small wave 46.7
+big wave 47.5
+small wave 49.1
+big wave 51.2
+dual wave 58.3
+undual wave 61.5
+small wave 65.8
+big wave 69.5
+square 80.9
+small square 82
+big square 82.2
+ship 83.1
+small ship 88.3
+square 89.5
+big square 93.2
+ship 94.5
+small 100
+
+arcturus:
+big square 0
+small square 1.7
+big ship 14.1
+small ship 15
+dual big square ball 19.6
+wave 20.2
+undual wave 31.8
+small wave 32.3
+ship 43.9
+big wave 84.5
+dual ship 89.2
+undual small ship 91.2
+big 100
+
+Artificial Ascent:
+big square 0
+small square 1.6
+big square 2.5
+small wave 4.8
+big wave 5.2
+small ship 5.6
+square 7
+big ship 8.3
+small ship 8.6
+big ship 8.9
+small ship 9
+dual ball 9.4
+undual ship 10.4
+square 12.2
+ship 13.1
+big ship 13.6
+small ball 14
+dual big square ship 15
+big small square ship 15.4
+undual small ufo 15.9
+big robot 16.7
+wave 17.8
+small wave 18.2
+square 18.6
+big wave 19.6
+small wave 20
+ball 20.8
+square 22
+ship 22.6
+square 23.8
+dual big ship 25.2
+undual ufo 28
+square 28.7
+small ship 32.5
+big ship 35.4
+small square 36.4
+ship 37.2
+square 38.4
+ufo 39.6
+big ball 40.5
+small ball 41.3
+wave 41.8
+big square 42.6
+ship 43.9
+square 45.6
+ship 46.1
+square 47
+ufo 47.3
+square 47.7
+ship 48.2
+square 49
+small square 50.1
+ball 51.1
+robot 52.8
+big ship 53.6
+square 55.7
+wave 56
+small square 58.6
+ball 60.2
+ufo 61.5
+big ufo 62.3
+small ufo 62.8
+ship 63.1
+big ship 63.3
+small ship 63.7
+big ship 64.1
+ufo 67.4
+wave 68.1
+ball 69
+square 70.4
+ship 71.7
+small square 72.4
+big ufo 73.4
+square 74.2
+wave 75.3
+small square 76
+big robot 77.7
+square 79.3
+robot 80.3
+square 80.6
+robot 81.4
+small ship 83.7
+big wave 85.5
+small wave 85.9
+big wave 86.3
+small ufo 86.8
+big ufo 87.5
+small square 88.6
+ship 89.1
+big ship 90.2
+square 90.9
+dual square 91.3
+square ball 91.8
+big small wave ball 92.3
+ship wave 92.6
+ship robot 92.9
+undual big ship 93.2
+small ship 93.5
+dual small wave 94.8
+big wave robot 95
+square ship 95.7
+small big square ship 96.7
+big square 97.2
+undual square 97.4
+small 100
+
+Athanatos:
+big robot 0
+small robot 3.6
+big robot 5.1
+wave 7
+dual small wave 10.9
+big wave 11.2
+undual square 13.9
+ship 14.5
+small ship 17.4
+big ship 20.1
+small ship 21.4
+big ship 22.9
+ufo 23.8
+small ufo 25.9
+big ufo 28.9
+ball 33
+small ball 35.9
+ship 37.7
+big ship 40.9
+square 42.4
+small ship 53.5
+square 56.5
+ship 59.6
+wave 63.9
+robot 66.1
+wave 68.6
+big wave 69.9
+small wave 70.9
+dual wave 71.6
+big small wave 71.9
+undual big square 73.9
+small ufo 75.4
+ball 76.1
+robot 80.6
+ship 81.9
+big wave 82.8
+ship 86
+small ship 87.7
+big wave 88.8
+square 90.5
+ship 91.1
+square 93.5
+small square 96
+big square 97.3
+small 100
+
+Audio Extraction:
+big ship 0
+small ship 1.3
+big wave 1.9
+square 3.8
+small ball 3.9
+big ufo 5.9
+small ufo 6.8
+square 7.5
+big wave 8
+dual wave 8.8
+undual robot 10.3
+ufo 11.7
+ship 13
+small square 16
+dual big ball wave 17.9
+wave 18.4
+small wave 23
+big wave 23.6
+small wave 27.6
+undual ball 28.3
+ufo 30.6
+robot 31.2
+big robot 33.2
+ship 33.9
+ufo 35.6
+ship 36.4
+small ship 36.6
+big ship 37.1
+wave 37.8
+small ship 38.3
+big ship 39.6
+robot 39.8
+ufo 40.6
+small ufo 41.2
+big wave 43.8
+ship 44.3
+small ship 45.2
+big wave 50.2
+small ship 51
+big wave 53.2
+small square 57.1
+ball 63.1
+robot 64.2
+big square 64.7
+ship 67.7
+ball 69.9
+square 70.3
+small square 71.9
+big ship 73.6
+wave 74.6
+square 75.3
+ship 76
+wave 76.9
+small wave 78
+big square 78.6
+ball 81
+square 82.1
+small square 85
+ship 86.7
+wave 88.7
+big wave 89.8
+ball 90.7
+wave 93.1
+ship 95
+small 100
+
+Aurora:
+dual small ball 0
+undual big square 4.5
+ufo 5.6
+small ufo 6.6
+big ufo 7.2
+small ufo  7.5
+big ufo 7.6
+square 8.7
+small square 10.6
+big square 11.8
+small square 12.3
+ship 12.7
+ball 13.5
+big ball 14
+ufo 15.2
+ship 15.5
+small ship 15.7
+big ship 16.3
+small ship 16.5
+big square 17.2
+small ship 17.8
+square 18
+big square 18.1
+dual square 19.3
+square wave 19.9
+wave ship 20.3
+undual ball 20.7
+dual ball ship 20.8
+undual ball 22
+small square 22.5
+dual ball 22.7
+undual ball 25
+big wave 26.6
+small wave 27.4
+big wave 27.9
+small wave 28
+big wave 28.1
+small wave 28.3
+big wave 28.5
+small wave 28.7
+big wave 29.2
+small wave 30
+big wave 30.6
+ball 31.2
+square 32.9
+ship 35.7
+small ship 38.2
+ufo 41.5
+square 47.1
+dual big robot spider 47.4
+undual ship 50.4
+wave 51.8
+ball 53
+dual square 53.4
+big small square wave 53.7
+undual small wave 57
+big square 58.4
+dual ufo spider 59
+undual ufo 63.9
+small ufo 65.8
+big ufo 66.3
+dual spider 66.6
+spider wave 67.5
+small spider wave 71.3
+undual small square 73.9
+big square 74.4
+ship 75.3
+wave 87
+square 98.6
+small 100
+
+Bausha Vortex:
+big square 0
+small square 5.5
+big square 6.4
+ship 7.5
+small ship 11.8
+square 12.2
+big square 14.8
+small square 16.2
+wave 20.2
+small wave 26.6
+big wave 27
+dual small wave 29.9
+big wave 31.2
+undual wave 32.6
+small wave 34
+big wave 35.2
+small wave 36.9
+big wave 37.3
+small square 38
+big square 39
+small square 39.4
+wave 41.1
+big wave 42.2
+small wave 45.2
+big wave 46.4
+small wave 49.4
+dual wave 51.5
+big small wave 54.2
+big wave 55.6
+undual wave 57.2
+small wave 62.6
+dual wave 65.6
+undual wave 67.4
+big wave 67.7
+dual wave 72.7
+small wave ball 73
+big small wave ball 73.8
+big wave 76.5
+undual wave 78.3
+small wave 79.7
+big wave 80.9
+small wave 81.7
+big square 83.1
+small square 87.3
+big square 88.3
+ball 97.1
+small 100
+
+Betrayal of Fate:
+big ship 0
+small ship 14.7
+big square 15.5
+small square 16.2
+big wave 17.1
+small ufo 17.8
+square 18.3
+big square 19.7
+small square 21.2
+big square 21.8
+small ball 25.5
+big ball 33.1
+dual wave 33.5
+undual wave 35.5
+square 37.3
+ufo 43.2
+square 49.2
+wave 49.7
+small square 57.4
+dual square 59.6
+undual square 60.3
+ball 61.1
+big square 66
+ship 81.6
+wave 87.3
+ball 90.8
+wave 92.1
+square 97.7
+small 100
+
+Black Blizzard:
+small square 0
+big square 25.5
+ufo 41.1
+ball 47.1
+ship 52.9
+square 58.7
+dual big small wave ufo 64.1
+ball 69.4
+ship ball 69.7
+big ship ball 71.3
+small ship ball 71.8
+big square robot 75.8
+undual square 81.5
+small square 85.8
+ship 87.3
+big ship 89
+small ship 92.2
+wave 93.8
+big wave 96.9
+small 100
+
+Bloodbath:
+big ship 0
+square 2.6
+small square 3
+big ship 3.8
+small ship 6.2
+big ship 7
+small ball 7.2
+square 10.2
+ship 10.5
+big ball 17.5
+square 25.1
+ship 26.8
+ball 27.9
+ufo 29.7
+square 31
+wave 32.4
+dual square 33.6
+undual ship 34.4
+small ship 35.3
+wave 36.2
+big wave 37.2
+ufo 38.2
+small ufo 40.4
+ship 42.4
+big square 52
+small ufo 54.6
+big ufo 56.8
+small ufo 58.4
+ball 61
+big square 67.4
+ufo 71.2
+ship 74.7
+ufo 78.1
+ship 78.9
+ball 80.5
+small ball 81.3
+big ufo 82.9
+wave 85.9
+ship 88
+small ship 89.2
+big ship 90.2
+dual small big square 91.4
+undual big square 92.6
+ball 93.4
+ufo 94.5
+ship 94.9
+ball 95.7
+square 98.4
+small 100
+
+Bloodlust:
+small ship 0
+big ship 3.6
+square 5.2
+small square 5.4
+big wave 6
+small wave 6.2
+big wave 7.2
+ship 7.5
+small ball 8.1
+ship 10.3
+big ball 14.8
+small ball 15.4
+big ball 16
+small ball 16.2
+big ball 18.2
+square 19.6
+ship 20.8
+ball 21.5
+ufo 22.6
+square 23.5
+wave 24.3
+dual square 25.1
+undual ship 25.6
+small ship 26.2
+wave 26.8
+small wave 27.4
+big ufo 28
+small ufo 29.5
+ship 30.7
+big square 37
+small ufo 38.5
+big ufo 40
+small ufo 41
+ship 42.6
+ufo 43.2
+ship 43.7
+small ship 44.2
+dual ball 44.8
+undual big square 45.9
+ufo 48.3
+ship 50.6
+ufo 52.8
+ship 53.3
+ball 54.3
+small ball 54.9
+ufo 55.9
+big wave 57.8
+square 59
+ship 59.1
+small ship 59.9
+big ship 60.5
+dual square 61.4
+big small square 61.5
+undual big square 62.2
+ball 62.6
+ufo 63.3
+ship 63.6
+ball 64.1
+square 65.9
+ship 67.8
+small ship 69.1
+robot 69.9
+big robot 71
+small ship 71.6
+big square 72
+wave 72.3
+small ufo 73.2
+big ufo 74
+small ball 75.2
+big square 76
+small ship 76.1
+ufo 76.5
+ship 76.7
+big square 77.1
+ship 77.3
+ball 77.6
+ship 78.1
+robot 78.4
+small robot 78.5
+square 78.6
+ship 78.9
+square 79.4
+big square 79.5
+small square 79.7
+big ship 80
+small ship 80.3
+ufo 80.7
+ship 81.4
+ball 82
+square 82.6
+ufo 83.3
+big ship 83.9
+small ship 84.5
+big square 85.1
+ufo 85.7
+ship 86
+square 86.7
+small square 87.6
+big square 88.3
+small wave 88.9
+big wave 89.7
+square 90
+ship 90.1
+wave 90.9
+small ball 91.3
+big wave 92
+square 92.6
+ship 93.1
+small ship 95
+big ufo 95.4
+wave 95.7
+small wave 96.2
+big ufo 96.7
+small ball 97.2
+big ship 98
+square 98.3
+small 100
+
+Cadrega City:
+big square 0
+ball 2.4
+small ball 3.1
+big ship 3.7
+small ship 4.4
+big ship 5.5
+small ship 6
+big square 6.3
+small square 8.5
+big square 9
+wave 11.1
+small wave 12.3
+big wave 12.9
+small wave 14.8
+dual wave 15
+big wave 15.7
+square 16
+big small square 16.9
+big small square ship 18.4
+undual big square 19.5
+ship 21.2
+small ship 24.2
+big ball 24.6
+small ball 25.6
+ship 27.3
+big ship 27.7
+ufo 28.1
+small ufo 29.6
+big ufo 31.4
+ship 31.9
+small ship 32.7
+big ship 32.8
+small ship 33
+big ship 33.3
+small ship 33.4
+big ship 34.1
+small ship 35
+big ship 35.1
+small ship 35.2
+dual square 35.5
+big square 36.3
+big small ufo square 38.1
+small ball 39.1
+undual square 42.8
+big ball 49.9
+small ball 51.4
+ufo 51.7
+ball 52
+ufo 53.4
+big square 53.9
+ball 54.9
+ship 55.2
+ufo 55.6
+square 55.9
+small square 56.1
+ufo 56.4
+ball 57.4
+big ball 58.1
+dual square 58.7
+big small square 60.7
+small ball 61
+big small square 61.5
+square ball 63
+big square ball 63.4
+wave 64.5
+undual ship 64.7
+wave 66.2
+small ship 67.7
+big ship 68.6
+small ship 69
+big wave 70.7
+small wave 72.3
+big wave 73.1
+ship 74.4
+square 77.5
+ufo 77.9
+small ufo 78.6
+big ufo 79.5
+ship 79.9
+ufo 80.4
+square 80.6
+small square 81.5
+robot 82.2
+square 83.2
+big ufo 84.2
+dual big small square 85.2
+big small square ship 86.2
+square ufo 86.8
+ship robot 87.7
+square 88.9
+square ball 90.4
+small square ball 90.6
+ship ufo 91.5
+ball 91.9
+big small wave ball 92.4
+wave 94.1
+big square 95
+undual ship 96.1
+small 100
+
+Calculator Core:
+big square 0
+small square 0.4
+big square 0.5
+small square 0.7
+big square 1.1
+small square 1.7
+ball 1.8
+dual big ball 3.2
+undual wave 3.6
+square 5
+dual ball 5.4
+undual wave 6.2
+ship 6.7
+robot 7.1
+dual small square ship 10.6
+big small square ball 11.7
+small square ball 12
+big small ball wave 12.1
+wave spider 12.7
+undual big ship 12.9
+small ship 13.1
+big wave 14.2
+small wave 15.1
+big wave 16.6
+small wave 17.5
+big wave 17.7
+small ship 18.1
+wave 18.7
+square 19.2
+big ship 19.5
+square 20
+spider 20.2
+square 20.4
+small square 20.5
+big ship 21.2
+small ship 21.4
+big ship 21.8
+square 22.1
+wave 22.4
+small ship 23.6
+big wave 24.7
+dual square 25.7
+square robot 26.2
+undual ship 26.7
+small ship 27.2
+big square 27.3
+small ufo 27.5
+big ship 28.1
+small ship 28.3
+square 29.1
+robot 29.5
+ball 30
+ship 30.5
+dual ball 30.8
+undual big square 32.6
+small square 33.2
+big ship 33.7
+dual square wave 35.2
+big small ball 36.7
+undual big ship 37.6
+ball 39.3
+small ball 39.7
+big wave 39.8
+small wave 41.6
+big wave 42.3
+ship 42.5
+small ship 43.5
+big ship 44
+small square 44.7
+small ball 45.5
+big square 47
+ufo 48
+wave 49
+ship 49.7
+small ship 50.4
+dual big ball 51.8
+big small ball 52.5
+ball spider 53.8
+spider 54.1
+undual spider 54.5
+dual robot 55.3
+undual wave 55.5
+small square 56
+dual square 56.1
+undual square 56.3
+ship 56.6
+big ship 57.1
+square 57.3
+ufo 57.4
+small ufo 57.9
+square 58.8
+ship 60.3
+square 61
+robot 61.4
+dual big square 64.6
+ufo ball 65
+ball ship 65.4
+undual ship 65.9
+dual ship square 66.2
+big small ship square 66.9
+spider wave 67.3
+big spider wave 67.7
+undual small wave 67.9
+big wave 69.5
+small wave 70.5
+big wave 71.2
+square 71.4
+ball 73.4
+small ship 73.9
+ball 74.3
+big spider 75
+small ship 75.3
+wave 75.8
+square 76.1
+big ship 76.7
+small ship 77
+big ball 77.3
+small ball 78.2
+big wave 78.5
+spider 79
+ship 80.3
+small ship 80.8
+big ship 81.3
+wave 81.4
+small wave 81.7
+big wave 82
+dual small square 82.6
+big square 82.8
+small square 82.9
+big square 83.3
+square spider 83.4
+spider 83.6
+big small spider 83.8
+ship 83.9
+big ball 84.1
+big small ball 84.4
+small ball 84.45
+big wave 84.6
+small wave 85.1
+big wave 85.5
+undual ship 86
+spider 87
+dual square 87.5
+spider ball 87.9
+big small spider ball 88.1
+big spider ball 88.3
+big wave 88.4
+small wave 88.9
+big wave 89.3
+undual ship 89.5
+small ship 89.9
+ball 90.6
+square 91.6
+dual big ball 92
+ship 93.7
+ufo 94.9
+big small ufo 95.2
+square 95.7
+big square 97.7
+wave square 97.9
+big small wave square 98.2
+undual big square 98.7
+small 100
+
+Celestial Force:
+big square 0
+small square 0.2
+big square 2.8
+small square 4
+ball 4.3
+big square 5
+robot 5.6
+small robot 5.8
+big ship 8.5
+small ship 9.1
+big ship 9.3
+square 10.2
+dual small wave spider 11.3
+big small wave spider 11.6
+small wave spider 11.8
+big small wave 12.9
+small wave 14.9
+big wave 15.5
+big small wave 16.2
+small wave 17
+wave ball 18
+wave 18.2
+big small wave 19
+small wave 19.4
+big wave 20.9
+small wave 21.1
+big small wave robot 21.4
+big robot wave 21.8
+big small wave 22.1
+small wave 23.1
+robot 24.1
+square 24.4
+undual square 24.7
+big square 25.3
+robot 26.6
+square 27.4
+robot 29.3
+square 30.2
+wave 33.6
+dual small wave 34
+big robot square 35.2
+small wave ball 35.8
+big wave 36.3
+small big wave 36.6
+big small wave ship 37
+big wave ship 37.6
+wave 37.8
+small wave 38.3
+big ufo 38.7
+ufo spider 38.9
+big small ufo spider 39.8
+wave 40
+small wave 40.4
+big wave 40.5
+small wave 40.6
+big ship 41.6
+big small ship 42.6
+wave 42.7
+big wave ball 43.5
+big small wave 43.9
+big wave 44.1
+small wave 45.2
+big wave 46.1
+small wave 46.2
+ball wave 46.6
+big small ball wave 47
+small square 47.5
+undual square 47.8
+ufo 48.9
+ball 49.2
+big ball 49.6
+small wave 50
+dual big small wave 50.5
+big ball 51.3
+big small ball 51.8
+big small ball square 52
+big ball wave 52.4
+big small ball wave 52.9
+small ball wave 53
+big small ball wave 55.1
+wave 55.3
+ball 55.5
+spider ufo 55.8
+spider ball 56
+big ship 56.3
+small ship 56.5
+big small ship 56.6
+ship wave 57.8
+ball wave 57.7
+ball robot 58
+robot wave 58.3
+small robot wave 58.4
+undual big square 59.3
+dual small square 60.2
+square ball 60.3
+undual square 66.1
+dual big ship square 67.4
+square ball 67.9
+ball ship 68.3
+square 68.6
+ship 68.9
+small ball 69.1
+big small square ball 69.5
+undual big square 69.9
+dual big small square ship 70.7
+big ball 71.2
+ball square 71.3
+undual ship 71.6
+small ship 71.8
+big ship 72
+dual square 72.4
+big small ship 72.7
+ball 73.2
+undual big square 74.2
+ship 74.5
+small ship 75.4
+big ship 76.6
+square 76.7
+ball 77.1
+small ball 77.5
+big ball 78
+robot 78.6
+square 79.5
+spider 79.9
+ship 81.2
+small ship 81.8
+dual square 82.5
+undual square 83.6
+big square 83.8
+small square 85.8
+big square 86.3
+ufo 86.7
+ship 87.2
+ufo 88
+small ufo 88.1
+wave 88.2
+big square 88.5
+ufo 89.6
+square 89.8
+robot 90.1
+wave 90.7
+square 91.2
+small square 91.6
+big robot 92.6
+small ship 93.4
+big ship 93.9
+ball 94.8
+small ball 95.1
+big ball 95.3
+ufo 95.4
+square 96.2
+ship 97.4
+small ship 97.8
+square 98.4
+big 100
+
+Cognition:
+big square 0
+ball 5.8
+square 8.7
+ship 11
+small ship 13.7
+big ship 17.5
+square 21.2
+ship 23.1
+ball 24.1
+square 25.2
+wave 27.4
+ufo 29
+square 29.6
+small wave 34.6
+dual big square ball 36.4
+square ufo 38.3
+ufo spider 39
+undual wave 39.6
+square 41.3
+ufo 45.5
+square 46.8
+wave 50.8
+small wave 51.6
+square 52.3
+ufo 58.3
+square 63.3
+ship 68.8
+ufo 72.7
+square 74.7
+ball 77
+ship 78.8
+small ship 80
+big ship 80.9
+square 82
+small square 85.1
+dual big square 86.2
+square ball 86.8
+big small square wave 87.2
+undual small wave 88
+big wave 88.4
+ufo 89.3
+square 90.6
+ship 95.5
+small 100
+
+Cold Sweat:
+small square 0
+ufo 42
+big square 60.1
+small wave 61
+big wave 66.9
+small wave 67.6
+big wave 73.5
+small wave 74.1
+big wave 80
+small wave 80.8
+square 87.4
+big square 96.1
+small 100
+
+Conical Depression:
+small wave 0
+ball 11
+square 16.8
+big square 18.7
+ship 23.7
+small ship 30.5
+dual ship 31.3
+ship ufo 33
+undual ship 34.3
+big ship 45.1
+small ship 48.9
+big ship 49.7
+square 51.3
+small square 58.8
+big square 67.9
+small square 68.8
+big square 70.3
+small wave 85.9
+big 100
+
+Crimson Planet:
+big square 0
+small square 2.5
+ball 4.3
+big robot 5.4
+ship 6.1
+small ship 7.8
+square 9.8
+ball 12.9
+square 13.6
+big square 14.1
+small wave 15.1
+big wave 16.4
+small wave 17.9
+big wave 19.7
+small wave 20
+big wave 20.1
+square 20.8
+ship 22.8
+small ship 24.1
+big ufo 25.1
+small ufo 27.7
+square 28.3
+big ship 29.1
+wave 30.8
+small wave 31.3
+ship 33.5
+square 34.3
+big spider 35.7
+small ship 36
+wave 38.6
+ufo 41.4
+square 44.4
+wave 45.5
+big wave 46
+square 46.6
+small square 47.3
+ufo 47.8
+ship 48.5
+ball 50.3
+dual robot 51.1
+undual robot 52.1
+big square 52.9
+robot 53.4
+ship 54
+small wave 56.6
+big wave 58.6
+small ufo 60.5
+big ufo 61.5
+small ufo 63.6
+spider 64.2
+ufo 66.1
+square 66.9
+wave 68
+big wave 69.1
+small wave 71
+big wave 71.8
+square 72.1
+small square 72.6
+big ufo 75.8
+big ship 77
+small ship 78.1
+big ship 78.6
+square 82.8
+small square 83.5
+big ship 86.4
+small wave 87.6
+spider 88.5
+ship 90.9
+big ball 93
+small 100
+
+Deimos:
+small square 0
+big square 1.4
+small square 1.9
+big square 2.2
+small robot 2.9
+square 3.1
+ufo 3.4
+square 3.6
+big spider 3.8
+small spider 3.9
+square 4
+dual square robot 4.4
+big small robot ufo 4.6
+small ship robot 4.7
+ufo 5.1
+spider ufo 5.3
+big small square ufo 5.5
+undual big ufo 5.7
+small robot 5.8
+square 7.4
+big square 8.8
+robot 9.6
+small robot 9.7
+big robot 9.9
+ship 10.2
+small ball 10.4
+big square 10.7
+wave 11
+robot 11.2
+wave 11.9
+small wave 14.3
+big square 14.5
+robot 14.6
+small robot 15.3
+big robot 15.7
+small square 16
+dual square robot 16.2
+ufo square 16.3
+big small ufo square 16.5
+ufo spider 16.7
+ufo 17.1
+big ufo 17.2
+ufo square 17.3
+undual small square 17.6
+ship 19.7
+square 21.2
+big ufo 21.8
+small square 21.9
+big ball 22.2
+square 22.4
+small ufo 22.7
+square 22.9
+ball 23
+big ball 23.1
+square 23.2
+small square 23.5
+ship 23.6
+big ship 23.9
+ball 24.3
+small square 24.5
+big ufo 25.5
+square 26.1
+ball 26.3
+wave 26.6
+small wave 27.3
+big wave 27.8
+square 28.1
+ship 28.6
+small ship 29.8
+big ship 30.2
+ufo 30.4
+ship 30.8
+square 31.2
+ship 31.5
+square 32
+small wave 32.3
+ufo 33.1
+big ship 33.6
+small ship 34.7
+big ship 34.9
+small ship 35.5
+dual big square 35.7
+big small square ball 35.9
+small wave ufo 37
+big small wave ufo 37.1
+big wave ufo 37.7
+wave 37.8
+undual ship 38.6
+small ship 38.9
+dual wave 39.9
+undual big square 40.6
+small square 40.9
+wave 41.2
+big wave 41.4
+ship 41.5
+ufo 42.3
+square 42.7
+ship 43
+small ball 43.4
+spider 44.2
+big square 45
+small square 45.5
+big square 45.7
+ufo 45.8
+square 46.2
+small square 46.5
+wave 46.8
+big wave 47
+small wave 47.4
+spider 47.8
+square 48.2
+big square 48.3
+ufo 48.5
+square 48.9
+dual big ball 49.5
+undual robot 50
+small robot 50.3
+big wave 50.9
+square 51.4
+small square 51.5
+big wave 51.9
+small square 52.5
+wave 52.6
+square 53.3
+big wave 53.4
+small ship 54.6
+big ship 55.3
+small ship 56.1
+big ship 56.2
+spider 56.3
+small spider 56.4
+ball 57.1
+big ball 57.2
+ship 57.7
+small square 57.8
+big ship 57.9
+small ship 58.5
+big ship 58.7
+square 59.5
+robot 60.7
+small robot 62
+big robot 62.9
+small ufo 63.2
+big ufo 63.5
+ship 64
+small ship 64.5
+big square 64.7
+small ship 64.9
+square 65.2
+small wave 65.5
+square 65.8
+big square 65.9
+ship 66
+small ship 66.2
+robot 66.4
+ball 66.8
+spider 67
+big ufo 67.2
+ship 67.6
+square 67.8
+ufo 68.3
+wave 68.6
+square 68.8
+ball 69.1
+dual square 69.4
+undual square 69.8
+ship 70.2
+square 70.4
+ball 70.6
+square 70.7
+ship 71
+square 71.2
+wave 71.6
+small square 71.9
+big robot 72.6
+ship 73
+ball 73.2
+small square 73.6
+robot 73.9
+square 74.4
+dual big square 74.7
+small square 74.8
+ship square 74.9
+undual big ufo 75.1
+square 75.2
+ship 75.5
+square 75.7
+wave 75.9
+small wave 76
+big ship 76.4
+ufo 76.5
+square 76.8
+small square 76.9
+big spider 77.1
+ufo 77.4
+square 77.7
+ball 78
+small ball 78.1
+big ball 78.3
+wave 78.4
+square 78.6
+ufo 78.8
+square 78.9
+wave 79.3
+dual wave 80.5
+undual small wave 80.7
+big wave 81.6
+ship 82.2
+small wave 82.8
+big wave 83.5
+square 84.4
+small ship 85.4
+big ufo 85.7
+small ufo 85.9
+dual big wave 86.5
+small wave 86.8
+big wave 87
+undual robot 87.4
+spider 88.1
+small square 88.5
+ball 88.6
+square 89.2
+big spider 89.7
+small square 89.8
+wave 90.2
+square 90.7
+dual wave ufo 91.1
+square ufo 91.3
+big small square ufo 91.4
+big square ufo 91.7
+big small wave ufo 91.9
+undual small ufo 92.2
+ship 92.8
+ball 93.3
+square 93.4
+dual square 93.8
+ship ufo 94.2
+big small ship ufo 94.7
+ship square 95
+undual big square 95.2
+small 100
+
+Devil Vortex:
+big ship 0
+small ship 1.6
+wave 4.3
+big wave 8.6
+small ball 9.9
+ship 17
+wave 19.5
+ball 20.6
+ship 22.7
+big wave 24.1
+ufo 26.7
+small ufo 28
+big ball 28.9
+small ball 34.7
+big ball 39.3
+square 41.8
+ship 49.5
+robot 51.4
+wave 55.1
+square 56.5
+dual square 58.2
+undual ship 59.9
+square 65.6
+small wave 67.2
+dual big ball 74.7
+undual wave 83.1
+ship 88.5
+wave 89.5
+ship 91.1
+wave 93.4
+small 100
+
+Digital Descent:
+big square 0
+ball 4.2
+small ship 8.5
+big spider 12
+dual square 13.8
+square ufo 14
+ship wave 14.3
+undual square 15.1
+spider 16.7
+ufo 20.6
+wave 21.9
+ship 23
+ball 23.4
+square 24.2
+ball 24.9
+ship 25.3
+small square 28
+ufo 28.5
+wave 28.9
+big ball 29.3
+square 30.3
+dual wave 31.4
+big small wave 31.8
+big wave 32.7
+undual spider 33.6
+ship 34.7
+small ship 35.3
+square 37.3
+ufo 37.8
+big ufo 38.5
+ball 38.9
+wave 40.4
+small wave 41
+ship 41.3
+robot 42.2
+square 43
+small square 43.9
+big square 45.7
+small square 47
+big square 47.2
+wave 47.5
+small wave 48.6
+square 49.3
+ship 49.6
+wave 50.2
+big robot 50.6
+spider 51
+robot 51.5
+ship 52.2
+wave 52.7
+ufo 53.1
+ship 53.9
+wave 56.1
+smal square 56.4
+ufo 57.1
+ship 57.8
+big ship 58
+small ship 58.9
+big ship 59.4
+square 59.6
+dual square 60.1
+undual wave 61.2
+small square 62.8
+big ship 63.1
+square 64.4
+small square 65.6
+ball 66.8
+big ball 67.8
+square 68.2
+ship 69.6
+spider 71.4
+ship 72.2
+ufo 72.9
+wave 74.6
+small wave 75.4
+big wave 77.5
+small square 80.4
+big square 81.1
+small square 81.2
+big square 81.6
+small square 81.8
+big square 82.1
+small square 82.2
+ship 82.4
+big ship 84.4
+ufo 86.1
+square 89.6
+small square 91.7
+big square 92.1
+small wave 95.2
+ball 95.4
+big ball 95.8
+ufo 96.1
+small square 96.7
+big square 98.3
+small 100
+
+Erebus:
+small ship 0
+wave 5.1
+big wave 5.7
+small wave 6.7
+big wave 7.1
+small wave 7.7
+ball 8.5
+big ship 10.5
+small ship 12.3
+big square 13.2
+small ship 14.4
+wave 15.1
+robot 17.3
+square 23.3
+ship 29.9
+big square 32.3
+small ship 40.2
+ball 41.1
+ship 43.6
+big square 44.4
+ufo 48.9
+small ufo 52.1
+square 53
+dual square 57.7
+undual square 61.1
+ship 62
+wave 62.8
+square 64.8
+ship 67.9
+ball 68.7
+big ship 71.2
+small wave 75.1
+big ship 76.1
+square 77.1
+small wave 80.3
+dual big square 81.3
+small square 82.2
+ball 83.3
+undual big ship 85.3
+small square 88.2
+big ship 93.6
+ball 94.6
+square 95.6
+small 100
+
+Firework:
+big square 0
+ship 3.7
+square 4.6
+dual ball 5.2
+undual ship 6
+small square 6.4
+wave 6.9
+big wave 8.1
+square 9
+ship 9.2
+square 10
+dual spider 10.8
+square 11.5
+ship 14.5
+square 15.2
+robot 15.8
+ufo 16.7
+dual ufo 17.1
+big small ufo 17.5
+big ufo 17.7
+small ufo 18.2
+big small ufo 18.4
+undual big wave 18.7
+small wave 19.4
+square 19.7
+big ship 20
+square 21.3
+spider 25
+square 26.4
+dual square 26.9
+undual square 27.1
+wave 28.1
+ship 29.3
+square 30.3
+dual ship 30.5
+big small ship 30.7
+undual big square 33.2
+ball 45.6
+square 45.7
+ship 46.6
+square 47
+ship 48
+square 48.2
+wae 48.8
+small square 49.7
+ball 50.6
+big ship 51.2
+square 51.5
+small square 51.6
+ball 52.1
+square 52.3
+big square 53.7
+ufo 55.6
+square 55.8
+robot 56.2
+ball 57
+ship 57.3
+ufo 57.6
+wave 57.8
+small spider 58.4
+dual spider 58.5
+undual big square 59.2
+ufo 59.8
+ball 60.1
+robot 60.3
+ship 60.9
+ball 62
+square 63.3
+small square 66.2
+big square 66.7
+small square 67.6
+big square 71.1
+ship 79.4
+small ship 82
+square 84.5
+big square 84.8
+small square 96.4
+ship 99
+big 100
+
+Fragile:
+big square 0
+small square 0.8
+big square 3.1
+dual square 3.9
+big small square 4
+undual big square 4.2
+small square 5.5
+big square 6.4
+small square 7.5
+big square 8
+small square 8.1
+big square 8.8
+small square 9.5
+ship 12.5
+big ship 12.9
+square 14.1
+small square 16.1
+big square 17.5
+small ball 17.7
+square 19
+big square 21.2
+small square 22.6
+big square 24.6
+ship 24.9
+small ship 26.3
+square 26.8
+big square 27.9
+small ship 28.7
+wave 29.8
+ship 31.1
+big ship 31.6
+square 32
+dual ball 32.5
+ball square 32.9
+spider square 33.1
+ship 33.4
+undual big square 34.6
+small square 36.1
+ufo 37.3
+big square 38.7
+ship 39.1
+square 39.8
+ufo 40.5
+wave 41.2
+small wave 41.9
+square 42.2
+ship 43.3
+big ship 43.7
+square 44.4
+ship 46.3
+square 46.8
+small square 48.4
+big square 49
+small square 50.6
+big square 52.2
+small square 55.8
+big square 60.1
+small square 61.9
+big ship 64.6
+small ship 65.6
+big ship 67
+small ship 67.9
+ufo 68.2
+square 70.1
+big wave 71.1
+small wave 71.4
+big square 71.9
+small ball 72.5
+square 74.5
+big square 76.9
+ball 78.8
+square 79.9
+ship 80.7
+square 83.4
+small square 83.5
+big square 84.4
+small square 86.7
+big square 88.3
+small square 91.4
+wave 95
+ship 95.4
+big ship 95.6
+small ship 95.8
+square 96.6
+big square 96.7
+small square 97.9
+ship 98.1
+square 98.5
+big 100
+
+Gamma:
+small square 0
+big square 4.2
+small spider 5.5
+square 7.5
+big square 8
+ball 9.7
+square 10.2
+spider 10.6
+square 11
+small square 12.4
+ship 13.2
+square 13.9
+wave 14
+dual square 14.7
+square ufo 15.3
+square 15.7
+undual ship 16.3
+spider 17
+wave 17.8
+big wave 18.1
+small wave 18.5
+big robot 19.1
+small robot 19.9
+ufo 20.3
+big ufo 21.6
+small ufo 26
+wave 27.8
+big wave 28.2
+small wave 28.9
+big wave 29.7
+dual ball 30.7
+big small square ship 32.2
+small square ship 32.7
+big small square ship 33
+small square ship 33.4
+undual big ship 33.6
+small ship 34.2
+wave 35.3
+big wave 35.6
+small ufo 37.2
+big ship 40.3
+square 41
+small ball 41.5
+square 42.8
+big ufo 43.1
+small ball 43.9
+big ship 45.2
+small ship 45.3
+big ship 45.4
+small wave 45.7
+square 46.5
+ufo 47.6
+ship 48.1
+wave 48.9
+big square 49.3
+dual square 50.6
+big small square ship 50.9
+wave 51.7
+small ship 53.8
+ball 55.1
+undual big square 56.2
+small robot 57.3
+big ball 58.3
+ufo 59
+ship 59.4
+spider 59.8
+square 60.4
+ufo 60.9
+wave 61.5
+small wave 62
+big square 62.4
+wave 62.9
+square 63
+ufo 63.6
+small square 63.8
+big ship 64.9
+square 65.3
+wave 65.6
+ship 65.9
+square 66.3
+robot 66.7
+ufo 67.4
+square 67.9
+small ship 68.3
+big wave 68.8
+square 69.4
+ball 70.1
+square 70.5
+wave 70.8
+square 71.3
+ship 71.9
+square 72.6
+small ship 73.1
+big ship 73.4
+wave 73.5
+square 74
+ship 74.3
+square 75.9
+small square 77.5
+big square 77.8
+ufo 78.2
+square 78.7
+small ship 81.8
+square 82.6
+big ship 85.2
+small spider 87
+big ufo 88.8
+small ufo 91.3
+big square 92.3
+small ship 92.8
+big ship 94.4
+small 100
+
+Generic Wave:
+square 0
+ship 8.8
+small ship 9.3
+big ship 10.3
+small ship 10.9
+big ship 11.5
+small ship 13.7
+square 18
+big ball 19.5
+small ball 21.2
+big ball 22
+dual small ball 26
+undual big square 27.8
+wave 29.2
+small wave 32.7
+big wave 35.9
+dual small wave 39.1
+undual wave 42.4
+big wave 45.6
+small wave 47.2
+dual big small wave 49.3
+big wave 49.5
+undual small wave 52.3
+big square 55.4
+robot 59
+square 61.8
+wave 65.1
+dual wave 67.7
+undual wave 70.9
+small wave 77.2
+big square 81
+small square 82.7
+big square 83.3
+wave 87.5
+small wave 90.6
+big wave 93.8
+small wave 96.8
+big 100
+
+Hard Machine:
+big square 0
+ship 1.4
+square 2.4
+ball 2.8
+ship 4.4
+small ship 5.9
+big square 6.7
+small ship 9.9
+big ship 11.1
+square 18.1
+ball 32.6
+small ball 35.7
+square 39.5
+ship 41.4
+square 43.3
+big square 46.6
+ship 48.9
+small ship 50.9
+big square 54.9
+ship 66.5
+small ship 68.3
+big ship 69.3
+ufo 72.5
+square 73.1
+small ship 74.5
+square 76.3
+big square 77.5
+ufo 81.4
+ship 84.6
+ball 86
+ship 89.8
+square 91.1
+small square 92.4
+big square 93
+small square 96.3
+big square 97.8
+small 100
+
+Hatred:
+big ball 0
+small ball 12
+square 13
+big wave 23
+small wave 28.6
+big ship 33.9
+small ship 38.6
+big square  42.9
+ufo 46.4
+small ufo 50
+big ufo 52
+small robot 57.6
+big robot 62.5
+square 63.4
+small square 69.6
+ship 69.8
+square 80.9
+big square 89
+small 100
+
+Infernal Abyss:
+small ship 0
+ball 3.8
+square 9.7
+ufo 15.7
+big wave 18.7
+ufo 25
+ship 31.7
+small ship 40.5
+square 47
+big robot 48
+small robot 49.9
+big square 53.1
+small ship 53.5
+robot 55.8
+ball 59.6
+big ball 62.4
+small ball 63.5
+big ball 64.3
+ufo 65.3
+small ufo 66.4
+big ufo 67.3
+small wave 69.9
+big wave 71.9
+small wave 73.6
+big square 75.2
+ship 78.8
+small square 80
+big robot 86.3
+small ball 87.6
+ufo 88.3
+big ufo 89.2
+ball 90.3
+square 91.7
+ship 93.4
+small ship 94.2
+big 100
+
+Kenos:
+big square 0
+small ball 2
+big square 2.6
+ufo 6.9
+small ufo 7.4
+square 7.8
+big square 8.8
+robot 11.9
+square 12.6
+small wave 17
+ball 17.7
+wave 20.6
+big wave 20.8
+small wave 23.4
+big wave 24.8
+small square 26.8
+wave 28.2
+big ufo 31.7
+small ufo 32.1
+big ufo 32.3
+small ufo 33.9
+big ufo 34.6
+ship 36.6
+small square 41.5
+big square 42.7
+wave 43.1
+ufo 44.6
+square 45.6
+small square 46.4
+wave 47.6
+robot 48
+small ship 49.5
+big wave 50.7
+square 51.5
+dual small square 51.7
+undual square 51.9
+ship 52.1
+square 52.6
+wave 53
+ship 56.6
+robot 57.9
+ufo 58.7
+ball 60.3
+spider 61.1
+ship 62
+wave 63.3
+big robot 64.8
+small robot 65.2
+big robot 65.4
+small robot 66
+big robot 66.2
+wave 68
+small wave 68.8
+big wave 72.7
+square 73.9
+small square 76.5
+big square 76.8
+wave 80
+small wave 80.8
+square 82.8
+big wave 83
+small wave 83.8
+big square 85.2
+small square 85.7
+ship 86.5
+ball 87.4
+ship 88.2
+big square 89
+small wave 90.2
+big square 91
+wave 91.7
+square 92.6
+ship 94.4
+small ship 97.4
+big square 97.9
+ship 99.2
+small 100
+
+kowareta:
+big square 0
+small square 1.8
+big square 4.4
+small square 5.2
+big square 6.7
+small square 11.5
+big square 13.4
+small square 15.8
+big square 16.7
+small square 17
+big square 18.2
+small square 19.8
+ship 26
+big ship 26.8
+square 29.3
+small square 33.8
+big ball 36.4
+small ball 36.7
+square 39.3
+big square 43.8
+small square 46.6
+big square 50.9
+ship 51.4
+small ship 54.3
+square 55.3
+big square 57.4
+small ship 59.2
+wave 61.5
+ship 64.2
+big ship 65.2
+square 65.9
+dual ball spider 66.9
+spider square 67.5
+ship 68.6
+undual ship 71.3
+square 71.8
+small square 74.4
+ufo 76.8
+big square 79.8
+ship 80.6
+square 82.1
+ufo 83.6
+wave 84.8
+small wave 86.3
+square 86.9
+ship 89.2
+big ship 90.2
+square 91.4
+ship 95.4
+square 96.4
+small 100
+
+Kyouki:
+big square 0
+small square 1
+ufo 1.3
+big ufo 1.6
+square 1.8
+small square 2.3
+ball 2.5
+big ball 2.8
+ship 3.5
+big spider 3.9
+square 4.5
+robot 4.8
+square 5.5
+small square 5.7
+ship 6.1
+big ship 6.4
+small ship 6.5
+square 6.6
+big square 6.9
+ship 7.5
+ufo 7.9
+small ufo 8
+big ufo 8.3
+robot 8.6
+small robot 8.8
+big robot 9.1
+spider 9.5
+square 10
+wave 10.6
+small wave 11.1
+square 11.4
+big square 12.2
+wave 13
+small wave 13.5
+ship 13.9
+big ship 14.3
+wave 14.8
+small square 15
+big square 15.5
+robot 15.6
+small wave 16.4
+big square 16.7
+small ufo 17.7
+big ufo 18.3
+ship 18.8
+small ship 19.2
+big ship 19.6
+small ship 20
+ufo 20.4
+big ufo 20.6
+square 21
+robot 21.9
+small spider 22.5
+big spider 23
+wave 23.4
+small wave 23.8
+big ball 24.2
+small ball 25
+big ball 25.1
+square 25.5
+dual wave 26.2
+undual wave 26.8
+ufo 27
+small ufo 27.7
+square 28.1
+big square 29.1
+wave 29.5
+small wave 29.6
+big square 30
+small ship 30.5
+big ship 30.6
+spider 31.7
+ball 32.6
+wave 33.4
+ship 33.6
+small ship 34.1
+robot 34.5
+big robot 35
+square 35.1
+ufo 35.4
+square 36.3
+small square 36.5
+wave 37.2
+big wave 38
+small wave 38.6
+big ufo 39.1
+square 39.5
+robot 39.9
+wave 40.8
+small wave 40.9
+big ball 41.2
+square 41.9
+spider 42.5
+square 42.8
+ufo 43
+small ufo 43.3
+ship 43.8
+big ship 44
+square 44.7
+dual square 44.8
+undual ball 45.5
+robot 46
+wave 46.7
+small wave 47.2
+square 47.6
+big square 47.9
+ufo 48
+small ufo 49
+big ship 49.3
+small ship 50.1
+big ship 50.5
+square 51.1
+spider 51.3
+ball 52.3
+small ball 52.6
+square 53
+big square 53.2
+dual square 53.4
+big small square 53.5
+small ball wave 54
+big small robot ball 54.5
+big robot wave 54.6
+small robot wave 54.8
+big small robot ship 54.9
+big ship 55.5
+big small ship square 56.3
+big ship square 56.6
+ship ufo 57
+ufo square 57.9
+undual square 58.2
+ufo 58.6
+small ufo 59.1
+square 59.3
+big square 59.7
+spider 59.9
+wave 60.9
+small wave 62
+big wave 63.1
+square 63.3
+small square 63.9
+big square 64.6
+small square 65.6
+big square 65.8
+ball 66
+spider 67.3
+square 67.6
+spider 67.9
+square 68.2
+small ship 68.6
+big robot 69.5
+ufo 70.4
+small ufo 71.4
+square 71.8
+dual big square 72.5
+wave 73.3
+square spider 73.6
+square 73.8
+square ball 75.3
+square 76
+big small square ship 76.8
+ship 77.1
+undual big square 77.4
+wave 78
+small wave 78.7
+ship 79.5
+big ship 79.9
+ball 80.3
+square 81.1
+ship 81.7
+small ship 82.4
+big ship 82.8
+spider 83.2
+small spider 83.6
+big robot 83.9
+small robot 85.5
+big robot 85.7
+ship 85.8
+small ship 87.8
+big square 88.2
+small robot 89
+big robot 89.5
+wave 90
+ufo 91.6
+ship 93.1
+small ship 93.9
+big square 94.4
+ship 95.9
+square 96.2
+ship 97.1
+square 97.4
+ship 98.3
+square 98.6
+small 100
+
+LIMBO:
+big square 0
+wave 4.1
+ship 8.2
+ball 11.2
+square 13.7
+small square 14.8
+big square 17.5
+small ufo 17.9
+square 18.8
+big ship 19.3
+small ship 20.2
+square 21.3
+big ball 23.6
+wave 25.6
+square 27.6
+ship 30.1
+square 31.8
+small ball 32.1
+square 33.9
+spider 34.5
+big square 36.7
+small wave 47.7
+dual wave 49.7
+undual big square 52.2
+small square 53.4
+big square 54.3
+ship 55.4
+small ship 56.2
+big ship 57.6
+ufo 58.3
+small ufo 59.3
+big ufo 61.2
+wave 63.5
+small wave 63.8
+square 64.2
+big robot 69
+small square 69.7
+ball 70.4
+big square 72
+ufo 74.3
+square 74.7
+small square 78.3
+ball 78.4
+square 79
+ball 79.9
+square 80.2
+dual big ball 80.6
+undual small square 82
+big square 82.6
+small square 85.1
+wave 87.1
+big square 94
+small 100
+
+Lucid Nightmares:
+big ship 0
+ball 2.6
+ship 4.8
+square 5.8
+ufo 6.9
+robot 7.7
+spider 8.6
+square 11.2
+dual square 12.6
+big small square ball 13.6
+small square ball 13.8
+big small square ball 14.9
+big square ball 15.3
+ship 15.5
+small wave 16.7
+undual big wave 17.2
+dual ball 17.7
+small wave 18.4
+big wave 19.3
+undual wave 20
+square 20.4
+big square 20.6
+small ship 20.8
+ufo 21.1
+big ufo 21.3
+ship 21.7
+ufo 22.6
+wave 23
+small wave 23.6
+square 24.2
+spider 25
+square 26.4
+ufo 26.9
+big ship 27.7
+ball 28.2
+square 29.4
+dual square 32.2
+ship 33.2
+ball 34.1
+ufo 35
+small wave 36.1
+undual big wave 37.6
+small wave 38.9
+big wave 39.8
+small ship 40.2
+big ship 41.5
+square 42.5
+ufo 44.6
+ship 46.3
+wave 46.8
+square 48.9
+ufo 50.3
+square 50.7
+small square 51.1
+big ball 51.6
+ship 52.5
+small wave 53.2
+big wave 53.9
+robot 54.8
+square 56
+spider 56.8
+ufo 58.1
+small ufo 59.3
+big ship 59.8
+wave 60.3
+ball 61.3
+square 62.4
+small ship 63.9
+big ufo 64.6
+small robot 66.8
+big robot 67.7
+spider 68.3
+ship 69.1
+square 69.8
+ship 72.1
+wave 73.2
+small wave 74.5
+ship 75.2
+ufo 75.9
+big ufo 76.3
+square 77.6
+ship 80.1
+wave 81.6
+square 82.2
+small ufo 82.7
+big ufo 83.2
+wave 83.8
+ship 84.4
+wave 86
+ship 91.7
+small 100
+
+Mayhem:
+big square 0
+robot 2.4
+square 5.3
+robot 7.6
+ship 10.6
+ufo 11.2
+square 14
+ball 14.1
+wave 16.6
+small wave 17
+big ufo 17.5
+ball 20.9
+small wave 23.4
+big wave 24
+square 24.4
+ball 25
+square 27.4
+spider 28.6
+square 31.1
+ufo 31.2
+square 36
+small wave 37.8
+big wave 38.5
+small wave 38.7
+big wave 38.8
+dual square 39
+undual ship 40.4
+square 41.3
+ship 42.7
+dual square 43.9
+undual ship 44.7
+square 45.3
+ship 47.1
+dual square 48.3
+undual ship 49.3
+square 50.3
+ship 51.6
+dual square 52.6
+undual ship 53.6
+square 54.1
+wave 56
+square 56.3
+wave 56.6
+square 56.9
+ball 57.1
+small ship 58
+big square 58.5
+ufo 59
+small ufo 59.3
+big robot 60.2
+ball 61.4
+small ship 62.3
+big spider 62.8
+square 63
+spider 63.3
+square 63.3
+ufo 64.6
+robot 65.7
+small ship 66.6
+square 67.1
+ufo 67.6
+small ufo 67.9
+big ball 68.9
+robot 69.9
+small ship 70.9
+big spider 71.4
+square 71.6
+spider 71.9
+square 72.2
+wave 73.3
+square 73.5
+wave 73.9
+square 74.1
+small square 75
+spider 78.9
+big spider 79.9
+square 81.1
+robot 82.8
+square 86
+ufo 86.8
+small square 88
+big square 90
+small 100
+
+Mystic:
+big square 0
+ball 1.1
+ship 2.5
+small ball 3.4
+big ship 7.4
+small square 9.4
+ball 11.4
+square 13.8
+robot 14.2
+ship 22.4
+big ship 23.7
+spider 24.8
+wave 27.3
+ball 29.3
+ufo 30.4
+small ufo 33.2
+wave 34.6
+big spider 38
+ship 41.2
+wave 42.2
+small wave 43.4
+big square 45.7
+ball 46.1
+square 51.5
+small wave 52.6
+square 53.2
+big square 53.4
+ship 54.1
+square 54.5
+ship 56.3
+square 56.6
+small ship 57.3
+wave 58.4
+square 58.9
+big square 60.1
+ball 61.6
+square 63.9
+ball 64.3
+square 65.2
+ship 65.5
+small ship 68.6
+big ship 70.6
+square 72.7
+small wave 76.4
+square 77.8
+ship 78.2
+big wave 79.3
+small square 80.4
+dual ball 83.3
+undual big ufo 84.9
+square 87.2
+small ball 89
+dual square 90.5
+undual big robot 92.2
+small ball 93
+big square 94.4
+ship 97.7
+small 100
+
+Oblivion:
+big square 0
+ship 2.5
+ball 3.8
+small ship 6.1
+big ufo 6.9
+ship 10.4
+square 11.1
+ufo 14.7
+wave 16.1
+ball 17.3
+small wave 19.6
+big ship 20.7
+small ship 23.3
+big ship 25
+square 26.8
+ball 29.6
+square 30.6
+ufo 32.8
+square 34.1
+ship 35.5
+wave 36.5
+square 37.6
+ball 41.2
+ship 43
+square 44.8
+small wave 48.2
+big square 49.3
+ufo 50.9
+square 53.2
+ball 54.9
+square 56.2
+ufo 58.7
+ship 60.8
+small ship 61.7
+big ship 62.7
+ball 63.9
+ufo 66.1
+square 68.6
+ball 70.1
+square 71.8
+ship 73.7
+square 75.3
+ufo 78.7
+square 80
+ball 82.3
+dual ball ufo 84.2
+square ufo 85
+undual square 87
+wave 89.2
+ball 90.4
+square 91.7
+small ship 94
+big ship 94.9
+small 100
+
+Phobos:
+small square 0
+big square 1.1
+wave 4.9
+square 7.3
+small wave 7.6
+square 9
+big ufo 13.6
+small ufo 14.7
+big ufo 15.2
+small ufo 18.2
+ship 19.1
+big ship 20.1
+small ship 21.6
+big ship 22.6
+small ship 25.2
+big wave 26.6
+small ball 33.3
+big ball 35.4
+wave 36.3
+small ship 39.9
+wave 43.3
+ball 45.8
+ufo 48
+big ship 49.4
+small ship 50.6
+big wave 51.7
+ship 54.7
+small ship 57.6
+big wave 58
+dual small ship 58.5
+ufo ball 61.3
+undual ball 63
+big ship 63.6
+ufo 65.5
+small ufo 66
+big ufo 67.2
+square 68.5
+ship 68.9
+wave 70
+ship 72.3
+small ball 75
+big ball 77
+small ball 77.2
+big ball 78.1
+ufo 80.2
+small ufo 80.8
+big ufo 81.8
+ship 83.1
+small ball 84
+big ship 84.5
+robot 87.2
+square 87.8
+small ship 90.9
+big ship 98.5
+small 100
+
+Plasma Pulse Finale:
+big square 0
+small square 3.5
+big square 5.6
+small spider 6.5
+big spider 7.3
+square 7.9
+ball 10
+square 11.8
+small square 12
+big square 12.9
+dual spider 14.1
+undual spider 16.2
+small spider 16.5
+big spider 17.2
+ship 18.3
+ufo 25.5
+spider 29.6
+small spider 30.4
+big robot 31.4
+dual robot 33.1
+robot square 33.7
+big small robot square 35.6
+undual big robot 38.9
+square 39.3
+small square 43.4
+big square 46
+small square 47.5
+wave 48.8
+big wave 49.9
+ufo 51
+square 51.6
+small wave 52
+square 52.5
+big robot 53
+small robot 53.6
+big ship 54
+small square 54.5
+ball 55.5
+big square 56.9
+small square 59.4
+big square 62.1
+robot 63.5
+dual small ball 65.6
+undual big spider 67
+small spider 67.8
+big ship 69
+small ship 70.7
+big ship 71
+wave 72.1
+small wave 74.7
+big wave 75.2
+ball 75.4
+small ball 75.6
+big square 78.7
+small square 79.4
+big square 80.5
+small square 81.2
+big square 81.9
+small square 82.4
+big square 83.1
+small square 84.3
+big square 85.7
+small square 89
+big square 90.2
+small square 92.7
+robot 95.9
+square 98
+big 100
+
+poosquared:
+big square 0
+ship 4.6
+square 5.4
+ship 9.6
+square 10.9
+dual square 14.4
+square ball 14.8
+wave 16.5
+undual square 17.6
+wave 18.3
+square 19
+ship 21.1
+square 23.1
+dual ship 25.5
+undual ball 26.4
+square 27.9
+wave 28.6
+ship 29.6
+robot 31
+small wave 32.5
+square 33.8
+big square 36.9
+ship 38.4
+small wave 38.9
+square 39.7
+ship 40.6
+robot 41.1
+big ufo 42
+square 42.8
+small square 49.1
+ship 49.3
+big wave 50
+square 50.6
+small wave 51.5
+big wave 51.9
+ball 52.1
+square 53.1
+ship 55
+square 56
+wave 56.9
+square 57.6
+ufo 58.4
+ship 59.2
+square 59.8
+ufo 60.1
+ship 60.3
+wave 61.1
+square 61.7
+ship 63
+square 64.4
+ship 65.7
+wave 66.4
+small wave 66.8
+square 67.3
+big ship 68.7
+dual ship 69.3
+undual small wave 70.5
+big square 71.8
+ufo 72.8
+square 74.1
+wave 76.6
+small wave 77.1
+square 78.4
+big square 79.4
+ship 80.8
+square 81.3
+wave 85.3
+small wave 85.8
+square 86.5
+big square 86.8
+dual square 87
+big small ufo wave 87.3
+undual small wave 88.5
+square 89.5
+wave 91.7
+square 92.2
+ship 92.4
+robot 92.8
+ball 93.4
+square 94.4
+big square 94.5
+ship 96.5
+square 97.4
+small 100
+
+Promethean:
+big square 0
+small ship 5.3
+big ship 5.9
+ufo 11.6
+wave 12.8
+ufo 21.6
+ball 31.4
+square 39.5
+ship 50.4
+robot 57.6
+dual small ball 61.3
+undual big ship 66.1
+small square 73.3
+big ship 84.9
+small ship 96.3
+big ship 97.3
+small 100
+
+Quantum Processing:
+big square 0
+small square 9.2
+big square 9.8
+wave 14.2
+dual wave 21.3
+undual wave 27.4
+ship 28.2
+ball 31.7
+small ship 35.2
+big ball 38.6
+wave 42.3
+dual wave 45.8
+undual wave 47.4
+wave 49.2
+undual wave 56.2
+square 57.9
+ball 61.5
+small ball 63.4
+big ball 64
+ufo 64.9
+small ufo 67.6
+big square 68.2
+ship 71.8
+ball 75.6
+ufo 79.2
+ship 82.3
+square 86.2
+small 100
+
+Ragnarok:
+big square 0
+small square 2
+ufo 2.5
+spider 3.7
+big spider 5.1
+small spider 5.3
+square 5.6
+big ship 6.3
+wave 7
+spider 7.6
+ball 8.8
+robot 10.1
+small square 11.2
+big square 11.8
+ball 12
+square 12.3
+small ship 13.4
+square 13.6
+big square 14.1
+ball 15.1
+spider 15.5
+square 15.7
+small robot 18.6
+big square 19.2
+ufo 19.8
+square 20.2
+ship 20.8
+small ship 21.3
+square 23.3
+small square 24.3
+wave 25
+robot 25.4
+ship 25.9
+big square 26.9
+small wave 27.2
+big square 27.7
+small ufo 29.7
+big ufo 30
+square 30.4
+ball 31.2
+small ball 31.6
+big square 31.7
+spider 32.1
+small spider 32.3
+ship 32.5
+big square 33.9
+robot 34.3
+square 35.2
+small square 35.4
+ball 36.1
+big ball 36.2
+square 36.5
+ship 37.2
+small ship 37.6
+ufo 38.3
+wave 38.6
+square 39.7
+big square 40.1
+ship 40.3
+small ship 41.4
+wave 41.5
+big square 41.7
+ship 42.3
+small ship 43.3
+ball 43.5
+big ball 43.9
+spider 44.3
+small ship 44.9
+big ship 45
+wave 45.2
+small wave 46.5
+ship 46.7
+ufo 47.6
+big ufo 47.7
+square 48.3
+small square 49.1
+big square 49.7
+small square 50.4
+big square 51
+ship 51.3
+small ship 51.8
+big ship 52.3
+small ship 53
+big ufo 53.9
+small ufo 54.5
+big ufo 54.6
+small ufo 55.1
+big ufo 55.2
+small ship 56.4
+big ufo 57.6
+small ufo 58.7
+big square 58.9
+wave 60.4
+small wave 61.2
+big wave 61.8
+big square 62.1
+robot 64.1
+small ship 64.6
+wave 65
+big square 65.3
+ship 65.5
+square 65.7
+ufo 66.1
+small square 66.6
+big square 67
+ufo 67.5
+square 68.1
+ufo 68.6
+square 68.9
+spider 69.6
+square 69.7
+ship 69.8
+small ship 70.3
+robot 70.7
+big square 71.1
+small ship 71.9
+big ufo 72.6
+square 73.3
+ship 73.8
+small ship 74
+big ufo 74.4
+square 74.9
+ball 75.6
+square 76.3
+small wave 76.4
+big wave 76.6
+square 76.8
+ball 77.2
+ship 78
+small ship 78.2
+big ship 78.6
+ufo 78.9
+small square 79.2
+big square 79.3
+ball 79.7
+square 80.3
+small wave 80.4
+square 80.7
+wave 81
+big wave 81.2
+ship 81.4
+square 82.3
+ufo 82.6
+ball 83.9
+square 84.9
+ship 85.1
+wave 86.4
+square 87.4
+small ship 87.7
+big ship 88.5
+square 89
+ship 90.3
+ball 90.5
+wave 91.4
+square 91.6
+small square 92.1
+big square 92.7
+ship 92.9
+ball 95.6
+wave 97.3
+dual wave 98.8
+undual square 99.5
+small 100
+
+Renevant:
+big square 0
+small square 9.6
+big ship 10.5
+ball 14.1
+wave 16.1
+small wave 18.2
+big ufo 19
+small ufo 19.9
+big ufo 21
+small ufo 21.7
+big ufo 21.9
+ship 22.3
+ufo 23.1
+ship 23.8
+ufo 24.4
+ship 25.3
+small ship 25.7
+wave 26.4
+big wave 27.1
+small wave 27.7
+ufo 27.9
+big ufo 29.1
+ship 29.3
+small ship 29.8
+big ufo 30.7
+square 31.2
+ufo 31.6
+robot 33.7
+small robot 34.2
+big robot 35
+small ball 35.6
+square 36.4
+wave 36.7
+square 37.3
+ship 37.8
+big ufo 38.5
+small ufo 39.6
+ship 40.1
+big ship 40.6
+small wave 41.3
+big wave 41.8
+small wave 42.3
+ufo 42.5
+big ufo 42.6
+ship 44
+small ship 44.6
+square 44.8
+big square 45.3
+dual square 47.4
+square ball 47.9
+big small square ball 48.9
+undual big square 49.7
+ufo 52
+square 54.6
+small square 55.7
+big square 56.1
+ship 56.2
+small ship 57.6
+big ship 57.8
+wave 58.3
+square 59
+ball 60.2
+small ball 60.6
+big square 61.3
+ship 65.5
+wave 66.1
+square 66.4
+ufo 66.9
+square 68
+small wave 69.7
+big wave 70.3
+square 71.1
+small ufo 71.7
+ball 72.1
+big ball 72.5
+robot 73.1
+small robot 73.9
+square 74.6
+big square 76.4
+ufo 77.2
+ship 78.7
+ufo 79.9
+square 81.7
+ship 82.8
+small ship 84.3
+big ship 85
+robot 85.6
+ball 88
+small ball 88.7
+big square 89.7
+ship 90.8
+dual ball 91.3
+big small ball 93.5
+big ball 94.3
+undual small ship 94.8
+big ship 95.7
+square 96.4
+wave 96.7
+ship 97.4
+square 98
+small 100
+
+Sakupen Circles:
+big square 0
+ship 8.5
+ball 17.2
+small ball 22.9
+dual ball 23.6
+big ball 28
+undual square 28.8
+small square 33
+big square 33.8
+wave 38.6
+small wave 45.2
+dual wave 49.6
+undual big wave 53.1
+small wave 59.2
+big wave 61.3
+ship 63
+wave 66.4
+dual wave 71.8
+undual ship 80.7
+small ship 86.2
+big ship 94.5
+small 100
+
+Sakupen Hell:
+big square 0
+small wave 7.7
+ball 9.1
+big wave 16
+small wave 21.8
+big wave 24.8
+small square 29.2
+wave 32.2
+big ufo 40
+ship 50.9
+small ship 61.2
+dual ufo 74.6
+ball ufo 75.2
+big small ufo wave 80.3
+undual big wave 81.4
+small wave 82.1
+ship 89.3
+big 100
+
+SARY NEVER CLEAR:
+big square 0
+small square 2.1
+ship 3.3
+big ship 3.9
+square 7.3
+ball 9.8
+ship 23.6
+square 28.7
+ufo 31
+square 36.1
+ship 60
+square 69.4
+small square 75.2
+big ball 78.3
+square 85.4
+small ship 87.1
+big ship 87.9
+small ship 91.2
+big ship 92.2
+square 97.8
+small 100
+
+Sigma:
+big square 0
+robot 0.4
+square 0.8
+small square 1.1
+ball 1.2
+big square 1.6
+ball 2.1
+square 2.7
+small square 2.9
+ship 3.4
+big ship 4.1
+square 4.8
+ufo 5.7
+square 6.4
+ship 6.6
+small ship 6.8
+square 7.6
+big ufo 8.2
+dual wave 8.9
+small wave 9.1
+big wave 9.3
+ufo wave 9.4
+undual wave 9.6
+square 10.1
+small square 10.3
+big square 10.5
+small wave 12
+big square 12.8
+small spider 18.5
+ship 19.9
+square 20.7
+big square 21.3
+small square 21.9
+ship 22.1
+wave 22.7
+square 23.5
+big square 24.2
+small square 24.4
+big wave 25.8
+small wave 27
+big wave 27.4
+square 27.7
+small square 29.1
+ship 29.4
+wave 29.9
+big wave 30.4
+ship 30.8
+square 32.3
+ufo 32.5
+small ufo 32.7
+square 33.3
+ball 33.5
+ship 34.4
+big robot 34.7
+ship 35.7
+square 36.2
+dual small ship 36.8
+undual robot 38.3
+dual wave 38.9
+big small wave ufo 39.3
+wave 39.6
+big wave 40
+undual wave 40.1
+square 40.4
+robot 41.1
+ship 41.8
+square 42.1
+dual square 42.6
+undual square 42.8
+ufo 43
+small ball 44.2
+square 44.6
+big square 45.2
+wave 45.8
+square 46.2
+dual square 46.5
+square ball 46.7
+ball ufo 46.9
+small big ufo ball 47.4
+big ufo ball 48.2
+undual ship 48.4
+square 48.9
+wave 49.1
+ufo 49.5
+square 50
+ship 50.9
+square 51.1
+wave 51.6
+square 52.1
+ufo 52.8
+square 53.1
+wave 54.1
+square 54.4
+wave 54.6
+square 54.8
+small ship 55
+square 55.2
+big wave 55.4
+square 55.7
+ship 55.8
+square 57.5
+small square 57.6
+ship 59.6
+big wave 60.9
+ufo 61.2
+spider 62.6
+small robot 62.9
+big wave 64.2
+small wave 64.4
+dual big wave 64.6
+undual wave 65
+small wave 65.5
+big wave 65.7
+square 65.9
+small square 66.2
+ship 66.4
+ball 66.7
+wave 67.6
+big wave 67.9
+ship 68.8
+spider 69.3
+small spider 69.8
+square 71.1
+dual square 71.4
+undual big square 71.9
+dual square 72.2
+undual ship 72.7
+square 73.2
+small square 73.8
+ball 74.5
+ship 74.9
+big ship 75.6
+dual small spider 75.8
+undual square 76.8
+ship 77.4
+square 77.8
+ufo 78.1
+ship 78.2
+wave 78.6
+square 78.8
+big ball 79.3
+small ball 79.7
+square 79.8
+ufo 80.3
+big ufo 80.6
+square 80.7
+small square 80.8
+ufo 81.5
+spider 81.9
+big spider 82.1
+square 82.7
+small square 83.1
+big square 83.5
+small square 84.7
+big ship 84.9
+small ship 85.5
+square 85.8
+wave 87.6
+ufo 87.7
+ball 89.2
+ship 90.5
+big square 90.8
+ufo 92.4
+wave 94
+square 95.5
+small 100
+
+Silent clubstep:
+big square 0
+dual square 3.7
+undual ship 6
+square 9.9
+small square 21.5
+ship 25
+square 33.7
+ball 34.7
+square 42
+ufo 43.3
+big ufo 45.3
+small ufo 45.9
+big ufo 46.2
+small ufo 47
+big ufo 47.3
+small ufo 47.9
+big ufo 48.1
+small ufo 48.6
+ship 49
+big ball 54.6
+square 56.4
+small square 57.7
+big square 58.7
+dual square 62.9
+square ball 64
+square 67.4
+undual small ball 68.9
+square 71.1
+ship 77.5
+big square 79.2
+small 100
+
+Slaughterhouse:
+small square 0
+big square 5.6
+ship 13.2
+square 14.1
+small square 24.1
+big wave 26
+small wave 29.8
+big wave 30.6
+small wave 30.9
+ship 34.1
+big ship 37
+small ship 41.7
+big ball 46.1
+small wave 49.7
+big wave 51.8
+small wave 55.9
+big wave 56.9
+small wave 57.2
+ufo 58.3
+big wave 62.6
+ship 66.8
+wave 74.7
+square 76
+wave 76.6
+small square 77.1
+ship 77.9
+wave 78.8
+big wave 80.7
+small wave 82.7
+big wave 84.3
+small wave 85.9
+ship 89.2
+big square 91.4
+small square 93.3
+big square 95.9
+wave 98
+small 100
+
+Sonic Wave Infinity:
+big square 0
+ship 7.4
+small ship 7.8
+big ship 9.7
+small ship 11.2
+big ship 11.3
+small ship 11.6
+square 15.1
+big ball 16.4
+small ball 17.9
+big ball 18.5
+small ball 21.8
+dual ball 21.9
+undual big square 23.4
+wave 24.6
+small wave 27.5
+big wave 30.2
+dual small wave 32.9
+undual wave 35.7
+big wave 38.3
+small wave 39.8
+big wave 41.4
+small wave 44
+big wave 46
+small wave 46.4
+big square 46.6
+wave 54.8
+dual wave 56.9
+undual wave 59.6
+small wave 64.9
+big square 68.1
+wave 73.6
+small wave 76.2
+big wave 79.1
+small wave 81.5
+ball 82.8
+big 100
+
+Sonic Wave:
+big square 0
+ship 8.8
+small ship 9.4
+big ship 11.6
+small ship 13.9
+square 18.2
+big ball 19.7
+small ball 21.4
+big ball 22.2
+small ball 26.1
+dual ball 26.3
+big square 28.1
+wave 29.6
+small wave 32.9
+big wave 36.3
+dual small wave 39.4
+undual wave 42.8
+big wave 46
+small wave 47.7
+big wave 49.7
+small wave 52.8
+big square 55.9
+wave 65.7
+dual wave 68.3
+undual wave 71.4
+small wave 77.8
+big square 81.7
+wave 88.2
+small wave 91.4
+big wave 94.9
+small wave 97.7
+big 100
+
+Spacial Rend:
+small robot 0
+spider 2.3
+square 4.3
+big square 6
+small square 6.6
+big square 7.8
+wave 8.8
+ship 9.5
+robot 10.4
+small square 11.8
+big square 12.9
+wave 16.2
+robot 17.1
+square 18.2
+ship 20.1
+square 21.3
+small ball 22.7
+square 24.1
+big ship 24.3
+small ship 26.5
+big ship 27.7
+square 28.8
+small square 29.5
+big ship 29.9
+square 30.7
+small square 30.8
+big square 30.9
+ship 31.4
+ball 32.5
+small ball 32.9
+big ball 33.5
+ship 36.2
+ufo 36.9
+ball 37.4
+square 38.3
+ship 41.5
+ufo 42
+square 42.3
+small square 45.1
+wave 46.2
+big wave 46.6
+small square 47
+ball 48.3
+big ship 48.8
+square 49.6
+ship 52.1
+small ship 53.8
+big ship 54.8
+ufo 56.2
+square 59.6
+dual square 60.8
+spider wave 61
+undual square 62.7
+small ship 63.7
+big ufo 65
+small ufo 66.3
+ship 66.7
+big square 68.5
+small square 68.6
+big square 68.7
+small square 68.8
+big square 68.9
+dual square 69.1
+big small square 70.1
+big small ufo ship 70.7
+big square 72.6
+robot wave 72.7
+big small robot wave 73.7
+big ball wave 73.9
+wave 74.4
+ball 75.7
+undual square 76.2
+ship 77.6
+ufo 78
+wave 78.8
+small wave 79.7
+big robot 80.6
+ship 84.2
+ufo 85.8
+ship 86.3
+square 87.8
+small 100
+
+Stalemate Redux:
+big ship 0
+small ship 3
+big ship 5.8
+wave 11.3
+small wave 19.7
+big wave 20.1
+dual square 30.5
+undual small ufo 34
+big ufo 44
+ship 54.3
+big ship 65.8
+small ship 70.8
+big ship 73.5
+ball 74.7
+small ball 77.3
+big ball 79.9
+small ball 82.7
+dual ship 85.6
+undual big 100
+
+Step To Hell:
+big ship 0
+square 0.6
+ship 1.3
+small ufo 1.7
+big ufo 2.4
+small ship 3.8
+big ship 4.3
+square 5.1
+robot 5.4
+small ufo 6.3
+ship 6.9
+big robot 7.8
+ship 10.4
+square 12.9
+ship 15.1
+square 16
+wave 17
+square 17.5
+ship 18.3
+square 18.7
+dual square 19
+undual square 20
+ship 20.5
+square 21.1
+small square 21.6
+big ufo 22
+square 22.3
+ship 23.1
+wave 24.9
+ufo 25.2
+square 25.8
+small ball 27.2
+big ufo 28.3
+square 29.2
+small square 29.4
+ball 30.2
+big ball 30.6
+ship 33.6
+small ship 34.8
+big ship 35.4
+square 35.9
+ufo 36.6
+ship 36.9
+square 40.6
+ship 46.2
+small wave 49.4
+big ship 50.1
+small ufo 51.8
+square 52.6
+big square 53.2
+small square 54.1
+big ship 55.8
+ufo 58.6
+square 59.7
+ship 60.2
+square 61.2
+small ship 62.2
+square 63.8
+big wave 64.9
+small wave 65.5
+big wave 65.8
+ship 66.3
+square 68.2
+ufo 69.1
+ball 69.4
+ship 70.3
+small ship 71.2
+big ship 74.3
+wave 75.7
+small wave 76.6
+big wave 77.5
+square 79.3
+small square 79.9
+big ship 81
+robot 82.2
+square 84.4
+ball 85.2
+square 86
+ufo 86.9
+square 87.3
+wave 88.1
+ship 88.5
+ball 88.9
+small wave 89.4
+ufo 89.9
+big ufo 90.2
+square 90.9
+ship 91.4
+ball 93.4
+small ball 93.6
+big ball 94
+wave 94.7
+ship 95.6
+small square 96.3
+big 100
+
+SubSonic:
+big square 0
+small ufo 2
+big ufo 2.1
+robot 2.5
+ship 3
+small ship 3.7
+big square 4.3
+robot 5.8
+small ship 6.8
+robot 7.5
+big robot 7.6
+small wave 8.6
+big wave 9.1
+small spider 9.5
+ball 10.8
+square 11.8
+big square 13.1
+small wave 13.9
+big wave 18.9
+ball 19.4
+small ball 20.7
+big ball 22.7
+square 25.1
+spider 26.3
+square 27.7
+ship 29.1
+small ship 29.6
+ufo 29.7
+big ufo 30.1
+square 30.5
+robot 31.7
+ship 33.2
+wave 34.6
+small wave 36.7
+big wave 37
+square 37.4
+wave 38.8
+small wave 39.3
+big wave 40
+small wave 40.7
+big spider 41.5
+ball 45.2
+square 53.6
+ball 54.6
+ship 55.8
+small ship 56.7
+dual square 56.9
+big small square 57.8
+undual big square 58.1
+wave 59.1
+square 60.3
+ship 61.4
+small ship 61.6
+big ship 62
+square 62.5
+small square 62.9
+big square 65.4
+small square 65.8
+big square 66.4
+small ufo 67.4
+big ufo 68
+small ufo 68.4
+square 69.4
+big square 70.2
+dual small square 71.1
+square ship 71.2
+big square ship 73
+undual square 74.3
+wave 76.7
+ball 77.4
+spider 77.8
+ship 80
+small ship 80.6
+big ship 81
+small ship 81.4
+big ship 81.8
+spider 82.3
+robot 84.5
+dual small ball 87.3
+robot spider 87.6
+big small robot spider 88.7
+big ship ufo 90.1
+undual ship 91.7
+ball 92.4
+small ball 92.6
+spider 93.8
+robot 95.3
+wave 96.5
+big 100
+
+Tartarus:
+big square 0
+ship 4.1
+square 6
+small square 7.2
+ship 8.1
+big ship 11
+ufo 11.5
+square 13.5
+small ship 24.7
+big ship 31
+wave 32.1
+small wave 33.4
+big ufo 34
+square 35.7
+ball 36.1
+small ship 37.8
+big ship 39.9
+square 41.4
+ship 45.2
+square 46.4
+dual ball 47.9
+big small ball 49.9
+undual big square 52.9
+small ufo 54.5
+ball 57.8
+dual ball 59.5
+undual ship 61
+big wave 62.5
+small square 64.2
+ufo 65.7
+square 66.3
+ship 66.7
+ball 67.3
+big ball 68
+small ball 68.8
+wave 69.6
+square 70.9
+ship 71.2
+big square 72.2
+small ufo 74
+ball 74.7
+ship 77
+ufo 77.7
+big ship 79.1
+small square 80.3
+ball 82.2
+ufo 84.2
+ship 86
+big square 88.4
+wave 90.4
+square 93.3
+ship 94.9
+square 95.8
+small ball 96.4
+big wave 96.7
+square 97.5
+ball 98.1
+small 100
+
+The Golden:
+big spider 0
+ufo 0.4
+small ufo 3.2
+big ufo 5.9
+ball 7.7
+small ball 8.4
+big ball 9.7
+ufo 11.6
+small ufo 12.6
+big ship 14.3
+small ship 16.6
+big ship 20.9
+square 22.9
+dual square 24
+undual square 24.1
+wave 28.1
+small wave 31.3
+big wave 33.1
+ufo 36.2
+wave 39.2
+small wave 44.8
+big wave 47.4
+ship 50.1
+wave 58.3
+square 60
+dual wave 61.2
+undual wave 64.4
+ball 66.8
+robot 72.6
+small robot 74.7
+big robot 79
+ufo 80.6
+spider 83.9
+ship 86
+small ship 86.4
+big ship 87.6
+small ship 89.6
+big ship 90
+small ship 91
+ball 93.6
+big ball 94.4
+ufo 97.2
+small 100
+
+The Hallucination:
+big square 0
+small square 1.1
+big ball 1.5
+small ball 2
+big ball 2.5
+ufo 2.7
+small ball 3
+big ship 3.8
+small ship 4
+big ship 4.4
+small ship 4.9
+big ship 5.6
+small ship 5.7
+big ship 7.2
+ball 7.5
+small ball 7.9
+big ball 8.6
+small ball 9.2
+big ball 10.3
+ship 11.2
+small ship 11.6
+big ship 13
+small ship 13.3
+big square 13.5
+small square 14.2
+big square 14.7
+small square 15.4
+big wave 15.6
+small wave 16.7
+big wave 16.9
+small wave 17
+big wave 17.1
+small ufo 17.3
+big ufo 17.5
+small ufo 17.6
+wave 17.8
+square 19.1
+big wave 19.5
+small wave 19.6
+big square 20
+small square 20.2
+big ufo 20.5
+wave 20.8
+small wave 21
+big wave 21.1
+small ball 21.2
+wave 21.8
+dual big small wave 22.1
+undual big wave 22.3
+square 22.4
+small square 22.5
+ball 22.7
+wave 23
+big wave 23.5
+small wave 23.7
+big wave 24.4
+small wave 24.6
+big wave 24.7
+small wave 25.4
+square 26.2
+big square 26.5
+dual small wave 26.8
+undual big wave 27.1
+small wave 27.5
+big wave 27.9
+small wave 28
+square 28.3
+big ball 28.4
+wave 28.8
+small wave 29
+big wave 29.6
+small wave 29.7
+big wave 30
+small wave 30.1
+big square 30.5
+small square 30.7
+wave 31
+big wave 31.7
+small ball 31.8
+big ball 32.5
+small wave 32.7
+square 33.2
+big square 33.5
+small wave 33.8
+square 34.4
+small square 34.6
+big square 35
+small wave 35.3
+big wave 35.8
+small wave 36.3
+big wave 36.4
+small wave 36.5
+big wave 36.6
+small wave 37.1
+big wave 37.5
+small wave 37.8
+big wave 37.9
+ball 38.3
+small wave 38.5
+square 39.5
+big square 39.9
+wave 40.1
+small wave 40.4
+big wave 41
+small wave 42.3
+square 42.8
+big square 43.3
+small square 45.2
+wave 45.4
+big wave 45.9
+small wave 47
+big wave 47.2
+small wave 47.3
+big wave 47.35
+small ball 47.4
+square 47.8
+wave 48
+square 48.4
+big wave 49.1
+small wave 49.5
+square 49.7
+big square 50
+wave 50.2
+small wave 50.3
+big wave 50.6
+small wave 51
+ufo 51.2
+big ufo 51.7
+wave 52.3
+dual wave 52.7
+undual wave 53.2
+dual small wave 53.7
+big small wave 54.2
+undual big wave 54.6
+small wave 55.1
+big wave 55.2
+small wave 55.3
+big wave 55.5
+small square 55.8
+big wave 56.1
+small square 56.6
+big wave 57.3
+ship 57.5
+small ship 57.7
+big ship 58.1
+small wave 58.3
+big wave 58.7
+small wave 59.3
+square 59.6
+ball 59.7
+wave 60
+big square 60.5
+small wave 61.1
+big wave 62.2
+small wave 63.3
+big wave 63.5
+square 63.6
+small square 63.7
+wave 64.2
+square 66.1
+big square 66.2
+wave 66.4
+small wave 66.9
+big wave 67.7
+dual small wave 68.1
+undual big wave 68.9
+small wave 69.7
+square 70
+big square 70.2
+ufo 70.5
+wave 70.6
+small wave 71.9
+big wave 73.3
+small wave 73.5
+square 74
+big square 74.2
+wave 74.4
+dual wave 75.2
+small wave 75.6
+square 76.2
+wave 76.4
+undual wave 76.8
+square 77
+big square 77.1
+ship 77.7
+ball 78.3
+small ball 78.7
+ship 78.9
+square 79.3
+big square 79.6
+small square 80.1
+ship 80.3
+big ship 81.4
+ball 81.7
+square 83.1
+ship 84.1
+square 84.4
+small square 84.5
+ufo 85
+big ufo 86
+square 86.4
+ship 86.5
+small ship 86.7
+square 87.3
+big square 87.6
+wave 87.9
+small wave 88.2
+big square 89.2
+ball 89.5
+small ball 89.8
+big ship 90.4
+small ship 91.2
+big square 92.6
+small 100
+
+The Hell World:
+big square 0
+ball 9.2
+square 10
+ship 13.9
+small ship 16.6
+big ship 17.5
+square 18.7
+ball 26.8
+square 27.2
+ball 29
+square 29.8
+ball 30
+square 31.6
+ball 33.9
+ship 37
+square 38.7
+ball 40.9
+ship 43
+ball 43.8
+square 44.2
+ball 45.1
+ship 46.9
+square 49.8
+ball 52.9
+square 54
+ball 63.3
+square 64.1
+ball 64.4
+ship 66.6
+square 69.2
+small ball 73.7
+big ship 75.1
+square 77.1
+ball 94.9
+square 97.1
+ship 97.3
+small 100
+
+The Rupture:
+big square 0
+ball 5.7
+small ball 6.3
+big ball 7.2
+square 8.8
+robot 10.6
+small wave 12.5
+big square 13.7
+ship 15.2
+small ship 17.3
+big ship 18.4
+square 18.8
+small square 19.4
+ufo 23.9
+big ufo 24.4
+wave 27.5
+square 29
+ball 30.4
+small ball 32.4
+ship 34.7
+square 36.9
+ship 39.1
+big ship 39.9
+ufo 41.3
+square 43.4
+dual small wave 46.5
+big wave 46.6
+wave square 48.1
+big small wave square 48.4
+square robot 49
+ball square 49.6
+undual big ship 50.4
+dual ship 54.6
+big small wave ship 55.1
+square 57
+undual big ball 58.9
+square 63.6
+ufo 65.5
+robot 67.4
+ship 69.7
+spider 72.3
+square 75.8
+wave 79.5
+square 79.9
+wave 80.2
+small wave 80.6
+ufo 81
+square 82.8
+wave 83.4
+ship 84.4
+big ship 85.1
+spider 85.5
+dual small spider 87.1
+big wave 88.1
+undual wave 88.8
+ship 89.4
+square 92.7
+small 100
+
+The Yandere:
+small square 0
+big square 2.4
+ball 4.7
+ship 5.7
+spider 6.1
+ship 6.9
+square 7.5
+ball 8.4
+small ball 8.7
+ship 9.3
+square 10
+big square 11.3
+ship 12
+spider 12.4
+square 13.9
+small square 14.1
+ufo 14.2
+big ufo 14.5
+square 14.8
+small ship 15.4
+ball 16
+robot 16.5
+ufo 17.2
+square 18.1
+ship 18.6
+big square 18.8
+spider 19.2
+square 19.6
+dual square 19.8
+ship 20.1
+square 20.5
+undual square 21.3
+ball 22
+ufo 22.3
+square 22.7
+small square 24.9
+ball 25.5
+big ball 25.9
+ship 26.2
+ufo 26.9
+small ufo 27.7
+square 28.4
+big square 28.6
+ball 30.6
+small ball 31.3
+big ship 31.6
+ufo 32
+small ship 32.5
+big square 33.2
+small spider 33.6
+big ship 34.1
+wave 34.4
+small wave 34.9
+square 35.1
+big square 35.8
+ufo 36.5
+square 37.5
+ship 39
+wave 40.1
+small wave 41.4
+big wave 42.8
+ship 43.4
+small ship 43.8
+ufo 44.4
+ball 45.4
+ship 46.1
+square 46.9
+ball 47.6
+small ball 47.8
+big spider 48.6
+small wave 49
+robot 49.5
+big square 50.4
+small ship 51.1
+big square 51.5
+small ship 51.9
+big spider 52.2
+ufo 52.6
+square 52.9
+ship 53.3
+small wave 53.9
+big square 54.3
+dual small square 54.4
+ball square 54.7
+ball ship 55.1
+spider ufo 55.4
+robot ship 55.8
+undual square 56.1
+big ufo 56.4
+small wave 56.9
+big square 57.5
+ball 58.3
+small ball 58.4
+big square 58.9
+ship 59.2
+square 59.9
+ball 60.6
+square 60.8
+wave 61.3
+square 61.7
+small square 63.6
+ship 64.1
+big wave 64.5
+small ship 64.9
+big ufo 65.1
+ball 66.1
+small robot 67.1
+big spider 68.3
+small ship 69
+big ship 69.5
+wave 69.9
+ball 70.2
+ufo 71.7
+square 72.1
+spider 73.2
+square 74
+ship 76.1
+wave 76.9
+ball 77.1
+robot 78.3
+square 79.1
+ship 79.8
+small ship 80.1
+dual big square 80.5
+big small square ball 80.6
+undual big square 80.8
+ball 81.1
+square 81.2
+ball 81.5
+ufo 81.6
+dual big square ball 81.9
+small ball square 82
+ship 82.4
+undual big ship 83
+wave 83.6
+small wave 83.8
+big wave 83.9
+small wave 84.4
+big wave 84.8
+square 85
+ufo 86.3
+ship 87.4
+small square 88.2
+ball 88.3
+big square 90.9
+small square 92
+ship 93.1
+square 93.6
+big square 94.1
+ufo 94.3
+square 94.7
+ship 95.5
+square 96.2
+ship 97.6
+small square 97.9
+big 100
+
+Thinking Space:
+big ship 0
+small ship 4.2
+big ship 5.4
+small ship 5.6
+big ship 6.2
+small ship 6.4
+big ship 7
+small ship 7.3
+big ship 9.8
+small ship 10.2
+big ship 11.2
+dual ship 14.6
+undual ship 16.3
+small ship 17.8
+big ship 19.7
+small ship 20.8
+square 22.7
+big square 27.6
+small square 29.6
+big square 31.6
+small square 32.3
+big wave 37.9
+small wave 39
+big wave 39.6
+small wave 44.3
+ship 46.4
+ball 48
+ship 48.7
+square 49
+big square 49.9
+ball 50.2
+ship 50.9
+robot 51.6
+ship 54.6
+small ship 54.8
+square 56.1
+square 56.9
+ball 58.5
+dual ball 63.2
+big small ball 63.8
+undual small ball 67.8
+big square 68
+wave 68.5
+small wave 69.2
+big wave 69.8
+ship 72.6
+small wave 73
+ship 73.9
+square 75.1
+wave 75.5
+big wave 75.8
+small wave 76.1
+big square 76.4
+robot 77.1
+ball 78.5
+ufo 79.3
+small ufo 79.6
+big ship 80
+wave 82.1
+dual wave 83.3
+ship square 83.8
+big small ship square 86.8
+undual small wave 88.1
+square 88.5
+ball 88.9
+big wave 89.6
+small ufo 90.2
+big wave 90.5
+small wave 92.1
+big square 94.2
+small 100
+
+Titan Complex:
+big square 0
+ball 1.3
+square 2
+robot 2.6
+ship 3.8
+small ship 4.6
+big ship 5.1
+square 5.2
+ball 6.2
+spider 6.9
+small spider 7.3
+dual spider 7.8
+undual spider 8.4
+big square 8.5
+ship 8.8
+square 9.1
+ship 10.4
+small ship 11.5
+big ship 12
+small ship 13.2
+big ship 13.8
+small ship 14.1
+ball 14.3
+big ball 14.6
+wave 15.4
+small wave 15.8
+square 15.9
+big square 16.6
+ship 17
+wave 17.4
+square 18.1
+wave 18.4
+ship 20.4
+square 20.8
+wave 21.5
+square 22.1
+wave 22.4
+square 24.6
+small wave 25.5
+ship 26.3
+big ship 27.2
+small ship 27.3
+square 28.3
+big square 28.7
+small wave 29
+big wave 29.4
+square 29.9
+ufo 30.2
+small ship 30.9
+big ship 33.3
+small ship 33.6
+big ship 34.3
+ufo 36
+square 38.5
+ship 39
+small ship 40.3
+big ufo 41
+robot 42.5
+ufo 42.7
+small ufo 43
+big ufo 43.8
+ship 44
+ufo 44.3
+small ufo 45.5
+big ufo 45.7
+robot 46.6
+small square 47.3
+ship 48.5
+ball 49.3
+spider 50.3
+big square 51.4
+small square 52.1
+big square 52.6
+ball 53
+square 53.8
+small ufo 54.6
+ship 54.8
+big robot 55.4
+square 55.5
+small ship 56.3
+big ship 56.7
+small ship 56.8
+big square 57.3
+ship 57.4
+small ship 57.8
+big ship 58
+ball 58.6
+square 59.1
+dual small wave 59.5
+big small square 59.8
+undual big square 61.6
+dual wave spider 62.2
+dual ship 63.1
+undual square 63.4
+dual square 64
+robot 64.4
+undual square 65.8
+small square 66
+big square 66.3
+dual small ball 66.8
+undual robot 69.5
+dual ball 71.6
+undual big ship 73.8
+small square 74.6
+big square 76.1
+wave 76.8
+small wave 77.1
+big wave 77.3
+small square 77.4
+big ufo 77.7
+small ufo 78.1
+big square 78.2
+dual ball 78.6
+big small ball 78.8
+big ball 79.1
+undual square 79.5
+ufo 80.1
+square 80.9
+ship 81
+small ship 81.9
+big ship 83
+small square 83.1
+big square 83.3
+wave 83.9
+square 84.8
+small wave 85
+ship 85.5
+square 85.9
+ship 87.1
+ball 88.6
+big ball 89.2
+square 89.7
+ball 93.1
+wave 93.5
+square 94
+ship 94.9
+square 96.9
+small 100
+
+Trueffet:
+big square 0
+small square 2.5
+big square 2.8
+small ship 4.2
+big square 4.8
+robot 5.7
+square 6
+ufo 7.3
+ship 8.2
+small ship 8.9
+big ship 9.3
+ufo 10.3
+wave 12.8
+dual wave 14.2
+ship 14.5
+small wave 15.2
+square 15.5
+big square 15.9
+square ship 16.3
+undual square 16.5
+ship 17.7
+small ship 18.3
+big ship 20.3
+square 21.2
+small square 21.8
+big square 22.5
+ufo 30.3
+small ufo 30.6
+big ship 31.1
+wave 31.7
+square 32.9
+small wave 33.3
+big wave 34.1
+square 34.6
+ship 35.1
+small ship 36
+big square 38.8
+small ufo 40.2
+big ufo 41.3
+ship 42.2
+small ship 43.8
+big wave 44.8
+small wave 45.1
+big wave 45.5
+square 45.8
+ship 48.1
+wave 48.8
+square 49.9
+ship 51
+small ship 51.8
+big robot 52.6
+square 53.8
+dual square 54
+big small wave ball 54.6
+big ufo wave 55.4
+undual small wave 56.1
+big wave 57.1
+small wave 58
+big square 58.4
+ship 59.7
+small ship 60.3
+square 61
+big square 62.3
+ufo 63.1
+ship 63.4
+square 68.5
+wave 74.2
+small wave 74.5
+big wave 74.7
+square 75.8
+small square 77.8
+big square 78.1
+ufo 78.9
+small wave 80.4
+big wave 82.1
+square 82.9
+ship 83.9
+ufo 84.9
+wave 85.4
+small wave 86.1
+big wave 87
+small wave 87.6
+square 88
+big square 88.3
+ship 88.7
+square 89.5
+small square 90.3
+big square 90.5
+ufo 90.6
+ball 91
+small square 92
+wave 93.5
+big ship 94.5
+square 95.1
+small 100
+
+Verdant Landscape:
+small square 0
+big ball 8
+small ball 8.4
+square 10.5
+ship 11.4
+ufo 13
+wave 15.4
+big wave 16.7
+square 17.9
+small square 18.8
+big square 21
+wave 21.9
+ufo 25.1
+square 26.9
+small square 27
+big square 27.4
+dual square 27.7
+small square 28.5
+big square 29.1
+small square 30
+big square 32.3
+small square 33.1
+big square 33.4
+small square 34.3
+big square 35.5
+ship 37.1
+small ship 38.1
+big ship  38.4
+small ship 38.9
+big ship 41.2
+small ship 41.8
+undual square 44.1
+big square 44.8
+ufo 45.7
+square 46.1
+small wave 47.4
+big square 47.9
+small square 48.2
+big square 48.6
+small ship 49.1
+big ship 49.4
+square 49.7
+small ufo 51.5
+big square 52
+wave 52.6
+small square 53.1
+big square 54.3
+ball 54.8
+small ball 55.2
+wave 56
+big wave 56.3
+square 56.6
+small square 56.9
+spider 57.8
+square 58.3
+small square 58.4
+big robot 59.2
+small ufo 60.2
+ship 60.6
+ball 61.2
+big square 61.7
+small square 62.2
+big square 63.1
+small square 63.7
+big square 64.3
+small ball 65
+big square 65.7
+small square 66.1
+ship 66.8
+big ship 67.9
+small ship 68.5
+square 69.6
+big square 70
+small square 70.3
+ufo 70.6
+square 71.1
+big square 71.8
+ufo 72.1
+small ufo 72.3
+big square 72.8
+ufo 73.1
+small ufo 73.5
+square 73.7
+wave 73.9
+big square 74.3
+small square 75.4
+ship 75.6
+big square 76.1
+small square 76.6
+dual big square 77.4
+small square 77.5
+ball 78.2
+undual wave 79.2
+big wave 79.5
+small wave 80
+big wave 80.3
+small wave 80.5
+big square 80.8
+small square 80.9
+big square 81.7
+small square 82.2
+wave 82.4
+square 82.6
+big ufo 82.8
+small ufo 83
+big ufo 83.8
+square 84.2
+small square 84.7
+ship 86
+big ship 86.5
+small ship 86.8
+big square 87.6
+small square 89.3
+big ship 89.9
+square 90.3
+small square 90.5
+big square 91
+ship 91.6
+small ship 93.3
+big ship 94.4
+small ship 95.1
+big ship 96.4
+small ship 96.7
+big ship 97.6
+small ship 98
+big ship 98.6
+small 100
+
+Visible Ray:
+big square 0
+small ship 0.4
+big wave 1.2
+small ufo 1.6
+big ball 2.4
+square 3.1
+small square 3.3
+big ship 3.7
+small ship 4
+big ball 4.7
+small ball 5
+big square 5.6
+ball 5.7
+small wave 7.7
+big wave 7.9
+ufo 8.9
+small robot 12
+big robot 14
+square 14.4
+robot 16.4
+wave 17.5
+small ship 18.7
+big ship 19
+small ufo 19.4
+big wave 19.7
+small wave 20.9
+big wave 21.2
+square 21.6
+ship 24
+small ship 24.3
+big wave 24.5
+small wave 24.8
+big wave 24.9
+ufo 25.2
+ball 26
+ship 28.4
+small ship 29.3
+dual ship 29.8
+ufo 30.1
+undual ship 30.7
+big wave 31.1
+square 31.5
+small ball 31.7
+ufo 32.7
+big ufo 34
+ship 35
+dual ball 35.3
+square 36.9
+undual square 37.2
+dual square 38.8
+robot 39.5
+big small robot 40.2
+robot spider 41
+undual small spider 42
+big square 43.5
+robot 43.6
+wave 44.3
+square 45.9
+small ball 46.1
+big ship 47
+square 47.9
+small ball 48.1
+robot 48.3
+big wave 48.6
+small square 49
+ship 49.4
+big robot 50
+dual small wave 50.4
+undual big wave 51.1
+ship 51.2
+small ship 52.5
+ufo 52.8
+big wave 54.4
+square 54.9
+ship 55.4
+small ship 55.5
+wave 55.6
+big ufo 55.9
+small square 56.4
+ship 56.9
+robot 57.3
+big robot 57.5
+spider 58.8
+wave 59.4
+small wave 59.5
+big wave 60.1
+small square 60.2
+big square 60.3
+spider 60.6
+small spider 60.7
+ship 61.6
+big square 62.7
+ship 63.1
+wave 63.9
+square 64.5
+small ball 64.9
+spider 65.3
+big square 66
+wave 66.1
+ufo 66.8
+ship 67.5
+robot 68.9
+ship 70
+small ship 70.6
+spider 71.3
+ufo 71.9
+square 72.5
+dual square 72.6
+square spider 73.2
+undual spider 77.7
+big square 77.8
+ship 78.3
+square 78.7
+ufo 79.1
+square 79.7
+ship 80.1
+square 80.4
+ufo 83.5
+square 84.1
+spider 84.7
+ship 85
+small ship 85.1
+big ship 85.3
+square 85.6
+wave 89.6
+robot 90.8
+square 91.7
+ship 92.7
+small 100
+
+Yatagarasu:
+big ship 0
+square 3
+small square 4.6
+big square 5
+small ufo 5.6
+big square 6.6
+ship 7.5
+small ball 8
+big wave 8.8
+small wave 9.3
+big wave 10.2
+small wave 10.8
+big ufo 12.3
+ship 13.3
+small ship 14.3
+big wave 15
+small ball 15.9
+ship 16.9
+big ship 17.1
+small ship 17.4
+big ship 17.8
+small ball 18.2
+ship 19.8
+big square 20.3
+ship 22.6
+wave 23.2
+small wave 23.6
+ship 24.2
+ball 24.5
+big wave 26.6
+small ship 28.6
+big square 30.2
+ufo 32.4
+robot 32.7
+ship 33.7
+small square 34.4
+ball 35.6
+big ball 35.9
+small ship 37.4
+big ship 38.3
+small ship 38.5
+big ship 39.1
+ball 39.2
+square 40.7
+ship 44.3
+ball 48
+robot 51.5
+wave 52
+robot 54
+square 54.8
+wave 55.9
+ship 56.7
+square 57.4
+ufo 58.1
+small ufo 59
+big ufo 59.9
+ball 60.1
+small ball 61.8
+square 62.4
+dual ball 62.5
+undual ship 64.5
+dual ball 66.3
+undual ball 68.1
+ufo 68.9
+square 69.5
+big ship 69.9
+ufo 72.3
+small ship 74.7
+dual ship 75.3
+undual big wave 76
+small ball 77.3
+big ship 78.4
+small ship 79.9
+big wave 81
+ball 81.7
+small ball 83.3
+big ball 83.7
+small ship 83.8
+dual ball 89.1
+undual ufo 91.5
+big square 93.6
+small square 95.9
+big square 96.8
+ship 98.6
+square 99.3
+small 100
+
+ZAPHKIEL:
+big square 0
+robot 4.8
+square 8.3
+ship 19.9
+small wave 20.8
+big wave 22.1
+small wave 23.1
+big square 24.4
+ufo 26.2
+wave 29.7
+small wave 31.5
+big wave 31.9
+ship 32.4
+square 33.4
+spider 34.6
+square 35.1
+ufo 36.1
+square 38.5
+ship 39.4
+small ship 39.9
+big ship 40.1
+small ship 40.3
+big ship 40.6
+small ship 41.6
+big ship 41.8
+dual ship 42.2
+undual ship 42.7
+square 43
+small wave 48.9
+big wave 50.5
+dual small spider 51.8
+undual wave 54.1
+square 55.6
+big ship 58
+small ship 59.8
+big ship 61
+small ufo 61.7
+big ship 64
+ufo 65.6
+square 66.9
+robot 67.3
+ball 68.3
+ship 69.4
+small ufo 70.1
+big ufo 71.9
+ship 72.3
+small wave 73.4
+big square 75
+spider 75.8
+square 76.3
+spider 76.7
+small spider 77.4
+big spider 78
+square 80.3
+robot 84
+ship 86
+dual square 89.7
+big small square ball 90.5
+big small ship ball 91.2
+undual small ship 91.9
+wave 92.1
+big wave 93.7
+ship 94
+dual ship 94.6
+ship ball 94.9
+undual ship 96.2
+big square 97
+small 100
+
+Zodiac:
+big square 0
+small square 1.5
+big square 2
+small square 4.5
+ball 5
+big robot 5.8
+small robot 6.3
+square 6.9
+wave 7.1
+robot 7.9
+big robot 9.2
+square 9.6
+robot 10
+square 10.5
+ball 11.2
+small ball 11.9
+big ship 12.7
+small ship 13.7
+big ship 13.8
+square 13.9
+small square 15
+big ship 15.7
+ufo 16
+robot 16.9
+small robot 17.6
+big square 18
+ship 18.3
+small wave 19.7
+big square 20.3
+dual square spider 21.3
+spider ufo 22.8
+undual ship 23.5
+square 24.2
+small square 25.3
+big square 25.7
+ship 30.9
+square 31.6
+ufo 34.2
+square 34.5
+spider 35
+robot 35.6
+ball 36.3
+small spider 36.9
+dual spider 37.5
+big small spider 38.1
+undual big square 38.5
+dual square 39
+undual ship 39.9
+small ship 40.1
+dual ship 40.5
+undual ship 41
+big square 41.4
+square 41.8
+dual ball 42.4
+ship 43.3
+small ship 43.6
+big square 43.8
+ball 44
+ship 44.4
+wave 45.3
+dual small wave 45.8
+undual big square 46.6
+spider 46.9
+dual small spider 47.8
+undual big ship 48.5
+small ship 48.8
+small robot 49.2
+big ship 50.9
+small ship 51.9
+big ship 52
+small ship 52.1
+big square 52.3
+ship 53
+ufo 53.4
+square 53.6
+spider 53.7
+ball 53.8
+small ship 54.1
+big ship 54.5
+wave 54.7
+square 55
+wave 56.7
+small wave 57.1
+ship 57.4
+square 58.6
+ball 58.7
+big wave 59.4
+ufo 59.9
+ship 61
+square 61.2
+ufo 61.9
+ball 62.7
+square 63.3
+ship 64.4
+square 65
+wave 65.4
+square 65.7
+small square 66.1
+big square 66.3
+ship 67.9
+ball 68.7
+square 69.4
+small square 70.4
+ball 71.4
+ship 72.6
+big ship 73.3
+square 73.9
+wave 75.4
+small wave 75.5
+big wave 75.6
+square 76.1
+wave 76.9
+square 77.5
+wave 78.5
+square 79.2
+wave 80
+square 80.8
+small square 81.3
+ufo 81.9
+big wave 82.3
+spider 82.5
+ball 83.4
+small ball 83.5
+robot 84.7
+ship 84.9
+big square 85.5
+small square 86
+big square 86.1
+ship 86.9
+square 87.7
+small square 91.2
+ball 92
+big ship 93.6
+ufo 94.5
+square 94.8
+ufo 95.7
+small wave 96.8
+big wave 97
+small wave 97.3
+big wave 97.4
+small wave 97.6
+big wave 97.9
+square 98.3
+small square 98.4
+big square 99.3
+ship 99.5
+small 100
+
