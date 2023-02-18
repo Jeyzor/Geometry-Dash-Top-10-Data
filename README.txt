@@ -67,3 +67,8 @@ HOW TO CALCULATE THE AVERAGE STATS OF MULTIPLE LEVELS:
 
 How to type the levels you want to calculate the average of:
 Each line must be only one level's name (case sensitive)
+
+Example GDdata.txt contents:
+Kenos
+Yatagarasu
+ZAPHKIEL
